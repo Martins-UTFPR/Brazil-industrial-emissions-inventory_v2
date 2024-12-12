@@ -4,7 +4,7 @@ This inventory of atmospheric emissions was developed for four industrial sector
 # Available Files:
 This folder “Brazil-industrial-emissions-inventory” consists of files in csv format with emission data for the 4 industrial sectors inventoried. The files EPA_CIMENTO.csv, EPA_PEC.csv, EPA_REFINARIA.csv and EPA_TERMELETRICAS.csv contain the name of the emitter, geographic coordinates and identification of each emission source. In addition, it includes the emission for a lower and upper limit and the average between them for PST, PM10, NOx, CO, NMVOCs and SOx, in Gg/year for the base years 1990 to 2023.
 
-#Citation and more information:
+# Citation and more information:
 Ibagué Rey et al. (2023). Development of an atmospheric emissions inventory for four industrial sectors of Brazil with a bottom-up approach.
 link: https://riut.utfpr.edu.br/jspui/bitstream/1/32339/1/inventarioemissoesindustriaisbrasil.pdf
 
