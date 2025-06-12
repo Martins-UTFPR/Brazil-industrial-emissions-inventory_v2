@@ -1,0 +1,892 @@
+ID	Source	State	Number_of_factories_per_state	Municipality	year	Factory_Name	lat	long	fabricated_cement	Unit
+1	Produção cimento	Alagoas	2	Marechal Deodoro	2014	CIMENTO ZUMBI, Marechal Deodoro - AL	-9,68089	-36	424119,2778	t clínquer
+2	Produção cimento	Alagoas	2	São Miguel dos Campos	2014	INTERCEMENT, São Miguel dos Campos - AL	-9,776144	-36	424119,2778	t clínquer
+3	Produção cimento	Alagoas	2	Marechal Deodoro	2015	CIMENTO ZUMBI, Marechal Deodoro - AL	-9,68089	-36	322128,1111	t clínquer
+4	Produção cimento	Alagoas	2	São Miguel dos Campos	2015	INTERCEMENT, São Miguel dos Campos - AL	-9,776144	-36	322128,1111	t clínquer
+5	Produção cimento	Alagoas	2	Marechal Deodoro	2016	CIMENTO ZUMBI, Marechal Deodoro - AL	-9,68089	-36	236892,7222	t clínquer
+6	Produção cimento	Alagoas	2	São Miguel dos Campos	2016	INTERCEMENT, São Miguel dos Campos - AL	-9,776144	-36	236892,7222	t clínquer
+7	Produção cimento	Alagoas	2	Marechal Deodoro	2017	CIMENTO ZUMBI, Marechal Deodoro - AL	-9,68089	-36	144791,4444	t clínquer
+8	Produção cimento	Alagoas	2	São Miguel dos Campos	2017	INTERCEMENT, São Miguel dos Campos - AL	-9,776144	-36	144791,4444	t clínquer
+9	Produção cimento	Alagoas	2	Marechal Deodoro	2018	CIMENTO ZUMBI, Marechal Deodoro - AL	-9,68089	-36	138169,1667	t clínquer
+10	Produção cimento	Alagoas	2	São Miguel dos Campos	2018	INTERCEMENT, São Miguel dos Campos - AL	-9,776144	-36	138169,1667	t clínquer
+11	Produção cimento	Alagoas	2	Marechal Deodoro	2019	CIMENTO ZUMBI, Marechal Deodoro - AL	-9,68089	-36	240829	t clínquer
+12	Produção cimento	Alagoas	2	São Miguel dos Campos	2019	INTERCEMENT, São Miguel dos Campos - AL	-9,776144	-36	240829	t clínquer
+13	Produção cimento	Alagoas	2	Marechal Deodoro	2020	CIMENTO ZUMBI, Marechal Deodoro - AL	-9,68089	-36	256281,1667	t clínquer
+14	Produção cimento	Alagoas	2	São Miguel dos Campos	2020	INTERCEMENT, São Miguel dos Campos - AL	-9,776144	-36	256281,1667	t clínquer
+15	Produção cimento	Alagoas	2	Marechal Deodoro	2021	CIMENTO ZUMBI, Marechal Deodoro - AL	-9,68089	-36	231124,6667	t clínquer
+16	Produção cimento	Alagoas	2	São Miguel dos Campos	2021	INTERCEMENT, São Miguel dos Campos - AL	-9,776144	-36	231124,6667	t clínquer
+17	Produção cimento	Alagoas	2	Marechal Deodoro	2022	CIMENTO ZUMBI, Marechal Deodoro - AL	-9,68089	-36	113181,7222	t clínquer
+18	Produção cimento	Alagoas	2	São Miguel dos Campos	2022	INTERCEMENT, São Miguel dos Campos - AL	-9,776144	-36	113181,7222	t clínquer
+19	Produção cimento	Amazonas	2	Manaus	2014	NASSAU (Grupo João Santos), Manaus - AM	-3,094023	-60	319290,5	t clínquer
+20	Produção cimento	Amazonas	2	Manaus	2014	MIZU, Manaus - AM	-3,14782	-60	319290,5	t clínquer
+21	Produção cimento	Amazonas	2	Manaus	2015	NASSAU (Grupo João Santos), Manaus - AM	-3,094023	-60	333489	t clínquer
+22	Produção cimento	Amazonas	2	Manaus	2015	MIZU, Manaus - AM	-3,14782	-60	333489	t clínquer
+23	Produção cimento	Amazonas	2	Manaus	2016	NASSAU (Grupo João Santos), Manaus - AM	-3,094023	-60	320502,5	t clínquer
+24	Produção cimento	Amazonas	2	Manaus	2016	MIZU, Manaus - AM	-3,14782	-60	320502,5	t clínquer
+25	Produção cimento	Amazonas	2	Manaus	2017	NASSAU (Grupo João Santos), Manaus - AM	-3,094023	-60	279614	t clínquer
+26	Produção cimento	Amazonas	2	Manaus	2017	MIZU, Manaus - AM	-3,14782	-60	279614	t clínquer
+27	Produção cimento	Amazonas	2	Manaus	2018	NASSAU (Grupo João Santos), Manaus - AM	-3,094023	-60	172409,2143	t clínquer
+28	Produção cimento	Amazonas	2	Manaus	2018	MIZU, Manaus - AM	-3,14782	-60	172409,2143	t clínquer
+29	Produção cimento	Amazonas	2	Manaus	2019	NASSAU (Grupo João Santos), Manaus - AM	-3,094023	-60	184693,3571	t clínquer
+30	Produção cimento	Amazonas	2	Manaus	2019	MIZU, Manaus - AM	-3,14782	-60	184693,3571	t clínquer
+31	Produção cimento	Amazonas	2	Manaus	2020	NASSAU (Grupo João Santos), Manaus - AM	-3,094023	-60	313472	t clínquer
+32	Produção cimento	Amazonas	2	Manaus	2020	MIZU, Manaus - AM	-3,14782	-60	313472	t clínquer
+33	Produção cimento	Amazonas	2	Manaus	2021	NASSAU (Grupo João Santos), Manaus - AM	-3,094023	-60	238853	t clínquer
+34	Produção cimento	Amazonas	2	Manaus	2021	MIZU, Manaus - AM	-3,14782	-60	238853	t clínquer
+35	Produção cimento	Amazonas	2	Manaus	2022	NASSAU (Grupo João Santos), Manaus - AM	-3,094023	-60	140653,2857	t clínquer
+36	Produção cimento	Amazonas	2	Manaus	2022	MIZU, Manaus - AM	-3,14782	-60	140653,2857	t clínquer
+37	Produção cimento	Bahia	4	Brumado	2014	INTERCEMENT, Brumado - BA	-14,199543	-42	384420,1389	t clínquer
+38	Produção cimento	Bahia	4	Campo Formoso	2014	INTERCEMENT, Campo Formoso - BA	-10,518571	-40	384420,1389	t clínquer
+39	Produção cimento	Bahia	4	Ituaçu	2014	NASSAU (João Santos), Ituaçu - BA	-13,811128	-41	384420,1389	t clínquer
+40	Produção cimento	Bahia	4	Candeias	2014	LAFARGEHOLCIM, Candeias - BA	-12,718323	-38	384420,1389	t clínquer
+41	Produção cimento	Bahia	4	Brumado	2015	INTERCEMENT, Brumado - BA	-14,199543	-42	382548,5556	t clínquer
+42	Produção cimento	Bahia	4	Campo Formoso	2015	INTERCEMENT, Campo Formoso - BA	-10,518571	-40	382548,5556	t clínquer
+43	Produção cimento	Bahia	4	Ituaçu	2015	NASSAU (João Santos), Ituaçu - BA	-13,811128	-41	382548,5556	t clínquer
+44	Produção cimento	Bahia	4	Candeias	2015	LAFARGEHOLCIM, Candeias - BA	-12,718323	-38	382548,5556	t clínquer
+45	Produção cimento	Bahia	4	Brumado	2016	INTERCEMENT, Brumado - BA	-14,199543	-42	325882,6111	t clínquer
+46	Produção cimento	Bahia	4	Campo Formoso	2016	INTERCEMENT, Campo Formoso - BA	-10,518571	-40	325882,6111	t clínquer
+47	Produção cimento	Bahia	4	Ituaçu	2016	NASSAU (João Santos), Ituaçu - BA	-13,811128	-41	325882,6111	t clínquer
+48	Produção cimento	Bahia	4	Candeias	2016	LAFARGEHOLCIM, Candeias - BA	-12,718323	-38	325882,6111	t clínquer
+49	Produção cimento	Bahia	4	Brumado	2017	INTERCEMENT, Brumado - BA	-14,199543	-42	311090,2222	t clínquer
+50	Produção cimento	Bahia	4	Campo Formoso	2017	INTERCEMENT, Campo Formoso - BA	-10,518571	-40	311090,2222	t clínquer
+51	Produção cimento	Bahia	4	Ituaçu	2017	NASSAU (João Santos), Ituaçu - BA	-13,811128	-41	311090,2222	t clínquer
+52	Produção cimento	Bahia	4	Candeias	2017	LAFARGEHOLCIM, Candeias - BA	-12,718323	-38	311090,2222	t clínquer
+53	Produção cimento	Bahia	4	Brumado	2018	INTERCEMENT, Brumado - BA	-14,199543	-42	316128,5833	t clínquer
+54	Produção cimento	Bahia	4	Campo Formoso	2018	INTERCEMENT, Campo Formoso - BA	-10,518571	-40	316128,5833	t clínquer
+55	Produção cimento	Bahia	4	Ituaçu	2018	NASSAU (João Santos), Ituaçu - BA	-13,811128	-41	316128,5833	t clínquer
+56	Produção cimento	Bahia	4	Candeias	2018	LAFARGEHOLCIM, Candeias - BA	-12,718323	-38	316128,5833	t clínquer
+57	Produção cimento	Bahia	4	Brumado	2019	INTERCEMENT, Brumado - BA	-14,199543	-42	344023,5	t clínquer
+58	Produção cimento	Bahia	4	Campo Formoso	2019	INTERCEMENT, Campo Formoso - BA	-10,518571	-40	344023,5	t clínquer
+59	Produção cimento	Bahia	4	Ituaçu	2019	NASSAU (João Santos), Ituaçu - BA	-13,811128	-41	344023,5	t clínquer
+60	Produção cimento	Bahia	4	Candeias	2019	LAFARGEHOLCIM, Candeias - BA	-12,718323	-38	344023,5	t clínquer
+61	Produção cimento	Bahia	4	Brumado	2020	INTERCEMENT, Brumado - BA	-14,199543	-42	339137,0833	t clínquer
+62	Produção cimento	Bahia	4	Campo Formoso	2020	INTERCEMENT, Campo Formoso - BA	-10,518571	-40	339137,0833	t clínquer
+63	Produção cimento	Bahia	4	Ituaçu	2020	NASSAU (João Santos), Ituaçu - BA	-13,811128	-41	339137,0833	t clínquer
+64	Produção cimento	Bahia	4	Candeias	2020	LAFARGEHOLCIM, Candeias - BA	-12,718323	-38	339137,0833	t clínquer
+65	Produção cimento	Bahia	4	Brumado	2021	INTERCEMENT, Brumado - BA	-14,199543	-42	345100,8333	t clínquer
+66	Produção cimento	Bahia	4	Campo Formoso	2021	INTERCEMENT, Campo Formoso - BA	-10,518571	-40	345100,8333	t clínquer
+67	Produção cimento	Bahia	4	Ituaçu	2021	NASSAU (João Santos), Ituaçu - BA	-13,811128	-41	345100,8333	t clínquer
+68	Produção cimento	Bahia	4	Candeias	2021	LAFARGEHOLCIM, Candeias - BA	-12,718323	-38	345100,8333	t clínquer
+69	Produção cimento	Bahia	4	Brumado	2022	INTERCEMENT, Brumado - BA	-14,199543	-42	198735,1111	t clínquer
+70	Produção cimento	Bahia	4	Campo Formoso	2022	INTERCEMENT, Campo Formoso - BA	-10,518571	-40	198735,1111	t clínquer
+71	Produção cimento	Bahia	4	Ituaçu	2022	NASSAU (João Santos), Ituaçu - BA	-13,811128	-41	198735,1111	t clínquer
+72	Produção cimento	Bahia	4	Candeias	2022	LAFARGEHOLCIM, Candeias - BA	-12,718323	-38	198735,1111	t clínquer
+73	Produção cimento	Ceará	5	Pecém	2014	APODI, Pecém  - CE	-3,666527	-39	549675,5111	t clínquer
+74	Produção cimento	Ceará	5	Quixeré	2014	APODI ,Quixeré - CE	-5,042383	-38	549675,5111	t clínquer
+75	Produção cimento	Ceará	5	Barbalha	2014	NASSAU (Grupo João Santos), Barbalha - CE	-7,333723	-39,305889	549675,5111	t clínquer
+76	Produção cimento	Ceará	5	Pecém	2014	VOTORANTIM CIMENTOS, Pecém - CE	-3,653844	-39	549675,5111	t clínquer
+77	Produção cimento	Ceará	5	Sobral	2014	VOTORANTIM CIMENTOS, Sobral - CE	-3,690606	-40	549675,5111	t clínquer
+78	Produção cimento	Ceará	5	Pecém	2015	APODI, Pecém  - CE	-3,666527	-39	577943,8444	t clínquer
+79	Produção cimento	Ceará	5	Quixeré	2015	APODI ,Quixeré - CE	-5,042383	-38	577943,8444	t clínquer
+80	Produção cimento	Ceará	5	Barbalha	2015	NASSAU (Grupo João Santos), Barbalha - CE	-7,333723	-39,305889	577943,8444	t clínquer
+81	Produção cimento	Ceará	5	Pecém	2015	VOTORANTIM CIMENTOS, Pecém - CE	-3,653844	-39	577943,8444	t clínquer
+82	Produção cimento	Ceará	5	Sobral	2015	VOTORANTIM CIMENTOS, Sobral - CE	-3,690606	-40	577943,8444	t clínquer
+83	Produção cimento	Ceará	5	Pecém	2016	APODI, Pecém  - CE	-3,666527	-39	549275,6889	t clínquer
+84	Produção cimento	Ceará	5	Quixeré	2016	APODI ,Quixeré - CE	-5,042383	-38	549275,6889	t clínquer
+85	Produção cimento	Ceará	5	Barbalha	2016	NASSAU (Grupo João Santos), Barbalha - CE	-7,333723	-39,305889	549275,6889	t clínquer
+86	Produção cimento	Ceará	5	Pecém	2016	VOTORANTIM CIMENTOS, Pecém - CE	-3,653844	-39	549275,6889	t clínquer
+87	Produção cimento	Ceará	5	Sobral	2016	VOTORANTIM CIMENTOS, Sobral - CE	-3,690606	-40	549275,6889	t clínquer
+88	Produção cimento	Ceará	5	Pecém	2017	APODI, Pecém  - CE	-3,666527	-39	523931,7778	t clínquer
+89	Produção cimento	Ceará	5	Quixeré	2017	APODI ,Quixeré - CE	-5,042383	-38	523931,7778	t clínquer
+90	Produção cimento	Ceará	5	Barbalha	2017	NASSAU (Grupo João Santos), Barbalha - CE	-7,333723	-39,305889	523931,7778	t clínquer
+91	Produção cimento	Ceará	5	Pecém	2017	VOTORANTIM CIMENTOS, Pecém - CE	-3,653844	-39	523931,7778	t clínquer
+92	Produção cimento	Ceará	5	Sobral	2017	VOTORANTIM CIMENTOS, Sobral - CE	-3,690606	-40	523931,7778	t clínquer
+93	Produção cimento	Ceará	5	Pecém	2018	APODI, Pecém  - CE	-3,666527	-39	488982,8667	t clínquer
+94	Produção cimento	Ceará	5	Quixeré	2018	APODI ,Quixeré - CE	-5,042383	-38	488982,8667	t clínquer
+95	Produção cimento	Ceará	5	Barbalha	2018	NASSAU (Grupo João Santos), Barbalha - CE	-7,333723	-39,305889	488982,8667	t clínquer
+96	Produção cimento	Ceará	5	Pecém	2018	VOTORANTIM CIMENTOS, Pecém - CE	-3,653844	-39	488982,8667	t clínquer
+97	Produção cimento	Ceará	5	Sobral	2018	VOTORANTIM CIMENTOS, Sobral - CE	-3,690606	-40	488982,8667	t clínquer
+98	Produção cimento	Ceará	5	Pecém	2019	APODI, Pecém  - CE	-3,666527	-39	488356,2	t clínquer
+99	Produção cimento	Ceará	5	Quixeré	2019	APODI ,Quixeré - CE	-5,042383	-38	488356,2	t clínquer
+100	Produção cimento	Ceará	5	Barbalha	2019	NASSAU (Grupo João Santos), Barbalha - CE	-7,333723	-39,305889	488356,2	t clínquer
+101	Produção cimento	Ceará	5	Pecém	2019	VOTORANTIM CIMENTOS, Pecém - CE	-3,653844	-39	488356,2	t clínquer
+102	Produção cimento	Ceará	5	Sobral	2019	VOTORANTIM CIMENTOS, Sobral - CE	-3,690606	-40	488356,2	t clínquer
+103	Produção cimento	Ceará	5	Pecém	2020	APODI, Pecém  - CE	-3,666527	-39	527980,4667	t clínquer
+104	Produção cimento	Ceará	5	Quixeré	2020	APODI ,Quixeré - CE	-5,042383	-38	527980,4667	t clínquer
+105	Produção cimento	Ceará	5	Barbalha	2020	NASSAU (Grupo João Santos), Barbalha - CE	-7,333723	-39,305889	527980,4667	t clínquer
+106	Produção cimento	Ceará	5	Pecém	2020	VOTORANTIM CIMENTOS, Pecém - CE	-3,653844	-39	527980,4667	t clínquer
+107	Produção cimento	Ceará	5	Sobral	2020	VOTORANTIM CIMENTOS, Sobral - CE	-3,690606	-40	527980,4667	t clínquer
+108	Produção cimento	Ceará	5	Pecém	2021	APODI, Pecém  - CE	-3,666527	-39	620083,6667	t clínquer
+109	Produção cimento	Ceará	5	Quixeré	2021	APODI ,Quixeré - CE	-5,042383	-38	620083,6667	t clínquer
+110	Produção cimento	Ceará	5	Barbalha	2021	NASSAU (Grupo João Santos), Barbalha - CE	-7,333723	-39,305889	620083,6667	t clínquer
+111	Produção cimento	Ceará	5	Pecém	2021	VOTORANTIM CIMENTOS, Pecém - CE	-3,653844	-39	620083,6667	t clínquer
+112	Produção cimento	Ceará	5	Sobral	2021	VOTORANTIM CIMENTOS, Sobral - CE	-3,690606	-40	620083,6667	t clínquer
+113	Produção cimento	Ceará	5	Pecém	2022	APODI, Pecém  - CE	-3,666527	-39	329655,4889	t clínquer
+114	Produção cimento	Ceará	5	Quixeré	2022	APODI ,Quixeré - CE	-5,042383	-38	329655,4889	t clínquer
+115	Produção cimento	Ceará	5	Barbalha	2022	NASSAU (Grupo João Santos), Barbalha - CE	-7,333723	-39,305889	329655,4889	t clínquer
+116	Produção cimento	Ceará	5	Pecém	2022	VOTORANTIM CIMENTOS, Pecém - CE	-3,653844	-39	329655,4889	t clínquer
+117	Produção cimento	Ceará	5	Sobral	2022	VOTORANTIM CIMENTOS, Sobral - CE	-3,690606	-40	329655,4889	t clínquer
+118	Produção cimento	Distrito Federal	2	Sobradinho	2014	CIPLAN, Sobradinho - DF	-15,572222	-48	2218585	t clínquer
+119	Produção cimento	Distrito Federal	2	Sobradinho	2014	VOTORANTIM CIMENTOS, Sobradinho - DF	-15,586358	-48	2218585	t clínquer
+120	Produção cimento	Distrito Federal	2	Sobradinho	2015	CIPLAN, Sobradinho - DF	-15,572222	-48	2034149	t clínquer
+121	Produção cimento	Distrito Federal	2	Sobradinho	2015	VOTORANTIM CIMENTOS, Sobradinho - DF	-15,586358	-48	2034149	t clínquer
+122	Produção cimento	Distrito Federal	2	Sobradinho	2016	CIPLAN, Sobradinho - DF	-15,572222	-48	1470814	t clínquer
+123	Produção cimento	Distrito Federal	2	Sobradinho	2016	VOTORANTIM CIMENTOS, Sobradinho - DF	-15,586358	-48	1470814	t clínquer
+124	Produção cimento	Distrito Federal	2	Sobradinho	2017	CIPLAN, Sobradinho - DF	-15,572222	-48	1310132,5	t clínquer
+125	Produção cimento	Distrito Federal	2	Sobradinho	2017	VOTORANTIM CIMENTOS, Sobradinho - DF	-15,586358	-48	1310132,5	t clínquer
+126	Produção cimento	Distrito Federal	2	Sobradinho	2018	CIPLAN, Sobradinho - DF	-15,572222	-48	1263874	t clínquer
+127	Produção cimento	Distrito Federal	2	Sobradinho	2018	VOTORANTIM CIMENTOS, Sobradinho - DF	-15,586358	-48	1263874	t clínquer
+128	Produção cimento	Distrito Federal	2	Sobradinho	2019	CIPLAN, Sobradinho - DF	-15,572222	-48	1225377	t clínquer
+129	Produção cimento	Distrito Federal	2	Sobradinho	2019	VOTORANTIM CIMENTOS, Sobradinho - DF	-15,586358	-48	1225377	t clínquer
+130	Produção cimento	Distrito Federal	2	Sobradinho	2020	CIPLAN, Sobradinho - DF	-15,572222	-48	1429955,5	t clínquer
+131	Produção cimento	Distrito Federal	2	Sobradinho	2020	VOTORANTIM CIMENTOS, Sobradinho - DF	-15,586358	-48	1429955,5	t clínquer
+132	Produção cimento	Distrito Federal	2	Sobradinho	2021	CIPLAN, Sobradinho - DF	-15,572222	-48	1540270	t clínquer
+133	Produção cimento	Distrito Federal	2	Sobradinho	2021	VOTORANTIM CIMENTOS, Sobradinho - DF	-15,586358	-48	1540270	t clínquer
+134	Produção cimento	Distrito Federal	2	Sobradinho	2022	CIPLAN, Sobradinho - DF	-15,572222	-48	865677,5	t clínquer
+135	Produção cimento	Distrito Federal	2	Sobradinho	2022	VOTORANTIM CIMENTOS, Sobradinho - DF	-15,586358	-48	865677,5	t clínquer
+136	Produção cimento	Espírito Santo	3	Cachoeiros de Itapemirim	2014	NASSAU (Grupo João Santos), Cachoeiros de Itapemirim - ES	-20,786199	-41,117609	1061470	t clínquer
+137	Produção cimento	Espírito Santo	3	Serra	2014	LAFARGEHOLCIM, Serra - ES	-20,189102	-40	1061470	t clínquer
+138	Produção cimento	Espírito Santo	3	Vitória	2014	MIZU, Vitória - ES	-20,261634	-40	1061470	t clínquer
+139	Produção cimento	Espírito Santo	3	Cachoeiros de Itapemirim	2015	NASSAU (Grupo João Santos), Cachoeiros de Itapemirim - ES	-20,786199	-41,117609	1036713,667	t clínquer
+140	Produção cimento	Espírito Santo	3	Serra	2015	LAFARGEHOLCIM, Serra - ES	-20,189102	-40	1036713,667	t clínquer
+141	Produção cimento	Espírito Santo	3	Vitória	2015	MIZU, Vitória - ES	-20,261634	-40	1036713,667	t clínquer
+142	Produção cimento	Espírito Santo	3	Cachoeiros de Itapemirim	2016	NASSAU (Grupo João Santos), Cachoeiros de Itapemirim - ES	-20,786199	-41,117609	994034	t clínquer
+143	Produção cimento	Espírito Santo	3	Serra	2016	LAFARGEHOLCIM, Serra - ES	-20,189102	-40	994034	t clínquer
+144	Produção cimento	Espírito Santo	3	Vitória	2016	MIZU, Vitória - ES	-20,261634	-40	994034	t clínquer
+145	Produção cimento	Espírito Santo	3	Cachoeiros de Itapemirim	2017	NASSAU (Grupo João Santos), Cachoeiros de Itapemirim - ES	-20,786199	-41,117609	930389,6667	t clínquer
+146	Produção cimento	Espírito Santo	3	Serra	2017	LAFARGEHOLCIM, Serra - ES	-20,189102	-40	930389,6667	t clínquer
+147	Produção cimento	Espírito Santo	3	Vitória	2017	MIZU, Vitória - ES	-20,261634	-40	930389,6667	t clínquer
+148	Produção cimento	Espírito Santo	3	Cachoeiros de Itapemirim	2018	NASSAU (Grupo João Santos), Cachoeiros de Itapemirim - ES	-20,786199	-41,117609	616284	t clínquer
+149	Produção cimento	Espírito Santo	3	Serra	2018	LAFARGEHOLCIM, Serra - ES	-20,189102	-40	616284	t clínquer
+150	Produção cimento	Espírito Santo	3	Vitória	2018	MIZU, Vitória - ES	-20,261634	-40	616284	t clínquer
+151	Produção cimento	Espírito Santo	3	Cachoeiros de Itapemirim	2019	NASSAU (Grupo João Santos), Cachoeiros de Itapemirim - ES	-20,786199	-41,117609	534917	t clínquer
+152	Produção cimento	Espírito Santo	3	Serra	2019	LAFARGEHOLCIM, Serra - ES	-20,189102	-40	534917	t clínquer
+153	Produção cimento	Espírito Santo	3	Vitória	2019	MIZU, Vitória - ES	-20,261634	-40	534917	t clínquer
+154	Produção cimento	Espírito Santo	3	Cachoeiros de Itapemirim	2020	NASSAU (Grupo João Santos), Cachoeiros de Itapemirim - ES	-20,786199	-41,117609	599084,3333	t clínquer
+155	Produção cimento	Espírito Santo	3	Serra	2020	LAFARGEHOLCIM, Serra - ES	-20,189102	-40	599084,3333	t clínquer
+156	Produção cimento	Espírito Santo	3	Vitória	2020	MIZU, Vitória - ES	-20,261634	-40	599084,3333	t clínquer
+157	Produção cimento	Espírito Santo	3	Cachoeiros de Itapemirim	2021	NASSAU (Grupo João Santos), Cachoeiros de Itapemirim - ES	-20,786199	-41,117609	658945,3333	t clínquer
+158	Produção cimento	Espírito Santo	3	Serra	2021	LAFARGEHOLCIM, Serra - ES	-20,189102	-40	658945,3333	t clínquer
+159	Produção cimento	Espírito Santo	3	Vitória	2021	MIZU, Vitória - ES	-20,261634	-40	658945,3333	t clínquer
+160	Produção cimento	Espírito Santo	3	Cachoeiros de Itapemirim	2022	NASSAU (Grupo João Santos), Cachoeiros de Itapemirim - ES	-20,786199	-41,117609	373159	t clínquer
+161	Produção cimento	Espírito Santo	3	Serra	2022	LAFARGEHOLCIM, Serra - ES	-20,189102	-40	373159	t clínquer
+162	Produção cimento	Espírito Santo	3	Vitória	2022	MIZU, Vitória - ES	-20,261634	-40	373159	t clínquer
+163	Produção cimento	Goiás	3	Cezarina	2014	INTERCEMENT, Cezarina - GO	-17,008898	-50	539117,6667	t clínquer
+164	Produção cimento	Goiás	3	Cocalzinho de Goiás	2014	LAFARGEHOLCIM, Cocalzinho de Goiás - GO	-15,787776	-49	539117,6667	t clínquer
+165	Produção cimento	Goiás	3	Edealina	2014	VOTORANTIM CIMENTOS, Edealina - GO	-17,260086	-50	539117,6667	t clínquer
+166	Produção cimento	Goiás	3	Cezarina	2015	INTERCEMENT, Cezarina - GO	-17,008898	-50	442294	t clínquer
+167	Produção cimento	Goiás	3	Cocalzinho de Goiás	2015	LAFARGEHOLCIM, Cocalzinho de Goiás - GO	-15,787776	-49	442294	t clínquer
+168	Produção cimento	Goiás	3	Edealina	2015	VOTORANTIM CIMENTOS, Edealina - GO	-17,260086	-50	442294	t clínquer
+169	Produção cimento	Goiás	3	Cezarina	2016	INTERCEMENT, Cezarina - GO	-17,008898	-50	356601,6667	t clínquer
+170	Produção cimento	Goiás	3	Cocalzinho de Goiás	2016	LAFARGEHOLCIM, Cocalzinho de Goiás - GO	-15,787776	-49	356601,6667	t clínquer
+171	Produção cimento	Goiás	3	Edealina	2016	VOTORANTIM CIMENTOS, Edealina - GO	-17,260086	-50	356601,6667	t clínquer
+172	Produção cimento	Goiás	3	Cezarina	2017	INTERCEMENT, Cezarina - GO	-17,008898	-50	495328,6667	t clínquer
+173	Produção cimento	Goiás	3	Cocalzinho de Goiás	2017	LAFARGEHOLCIM, Cocalzinho de Goiás - GO	-15,787776	-49	495328,6667	t clínquer
+174	Produção cimento	Goiás	3	Edealina	2017	VOTORANTIM CIMENTOS, Edealina - GO	-17,260086	-50	495328,6667	t clínquer
+175	Produção cimento	Goiás	3	Cezarina	2018	INTERCEMENT, Cezarina - GO	-17,008898	-50	571921,3333	t clínquer
+176	Produção cimento	Goiás	3	Cocalzinho de Goiás	2018	LAFARGEHOLCIM, Cocalzinho de Goiás - GO	-15,787776	-49	571921,3333	t clínquer
+177	Produção cimento	Goiás	3	Edealina	2018	VOTORANTIM CIMENTOS, Edealina - GO	-17,260086	-50	571921,3333	t clínquer
+178	Produção cimento	Goiás	3	Cezarina	2019	INTERCEMENT, Cezarina - GO	-17,008898	-50	639901,6667	t clínquer
+179	Produção cimento	Goiás	3	Cocalzinho de Goiás	2019	LAFARGEHOLCIM, Cocalzinho de Goiás - GO	-15,787776	-49	639901,6667	t clínquer
+180	Produção cimento	Goiás	3	Edealina	2019	VOTORANTIM CIMENTOS, Edealina - GO	-17,260086	-50	639901,6667	t clínquer
+181	Produção cimento	Goiás	3	Cezarina	2020	INTERCEMENT, Cezarina - GO	-17,008898	-50	673322	t clínquer
+182	Produção cimento	Goiás	3	Cocalzinho de Goiás	2020	LAFARGEHOLCIM, Cocalzinho de Goiás - GO	-15,787776	-49	673322	t clínquer
+183	Produção cimento	Goiás	3	Edealina	2020	VOTORANTIM CIMENTOS, Edealina - GO	-17,260086	-50	673322	t clínquer
+184	Produção cimento	Goiás	3	Cezarina	2021	INTERCEMENT, Cezarina - GO	-17,008898	-50	745606,6667	t clínquer
+185	Produção cimento	Goiás	3	Cocalzinho de Goiás	2021	LAFARGEHOLCIM, Cocalzinho de Goiás - GO	-15,787776	-49	745606,6667	t clínquer
+186	Produção cimento	Goiás	3	Edealina	2021	VOTORANTIM CIMENTOS, Edealina - GO	-17,260086	-50	745606,6667	t clínquer
+187	Produção cimento	Goiás	3	Cezarina	2022	INTERCEMENT, Cezarina - GO	-17,008898	-50	426453,6667	t clínquer
+188	Produção cimento	Goiás	3	Cocalzinho de Goiás	2022	LAFARGEHOLCIM, Cocalzinho de Goiás - GO	-15,787776	-49	426453,6667	t clínquer
+189	Produção cimento	Goiás	3	Edealina	2022	VOTORANTIM CIMENTOS, Edealina - GO	-17,260086	-50	426453,6667	t clínquer
+190	Produção cimento	Maranhão	5	São Luís	2014	ENTO BRAVO, São Luís - MA	-2,657102	-44	164839,3111	t clínquer
+191	Produção cimento	Maranhão	5	Açaiândia	2014	CIMENTO VERDE DO BRASIL, Açaiândia - MA	-4,893095	-47	164839,3111	t clínquer
+192	Produção cimento	Maranhão	5	Bacabeira	2014	ICIBRA, Bacabeira - MA	-2,911047	-44	164839,3111	t clínquer
+193	Produção cimento	Maranhão	5	Codó	2014	NASSAU (Grupo João Santos), Codó - MA	-4,524981	-44	164839,3111	t clínquer
+194	Produção cimento	Maranhão	5	São Luis	2014	VOTORANTIM CIMENTOS, São Luis - MA	-2,63764	-44	164839,3111	t clínquer
+195	Produção cimento	Maranhão	5	São Luís	2015	ENTO BRAVO, São Luís - MA	-2,657102	-44	170859,6444	t clínquer
+196	Produção cimento	Maranhão	5	Açaiândia	2015	CIMENTO VERDE DO BRASIL, Açaiândia - MA	-4,893095	-47	170859,6444	t clínquer
+197	Produção cimento	Maranhão	5	Bacabeira	2015	ICIBRA, Bacabeira - MA	-2,911047	-44	170859,6444	t clínquer
+198	Produção cimento	Maranhão	5	Codó	2015	NASSAU (Grupo João Santos), Codó - MA	-4,524981	-44	170859,6444	t clínquer
+199	Produção cimento	Maranhão	5	São Luis	2015	VOTORANTIM CIMENTOS, São Luis - MA	-2,63764	-44	170859,6444	t clínquer
+200	Produção cimento	Maranhão	5	São Luís	2016	ENTO BRAVO, São Luís - MA	-2,657102	-44	161040,0889	t clínquer
+201	Produção cimento	Maranhão	5	Açaiândia	2016	CIMENTO VERDE DO BRASIL, Açaiândia - MA	-4,893095	-47	161040,0889	t clínquer
+202	Produção cimento	Maranhão	5	Bacabeira	2016	ICIBRA, Bacabeira - MA	-2,911047	-44	161040,0889	t clínquer
+203	Produção cimento	Maranhão	5	Codó	2016	NASSAU (Grupo João Santos), Codó - MA	-4,524981	-44	161040,0889	t clínquer
+204	Produção cimento	Maranhão	5	São Luis	2016	VOTORANTIM CIMENTOS, São Luis - MA	-2,63764	-44	161040,0889	t clínquer
+205	Produção cimento	Maranhão	5	São Luís	2017	ENTO BRAVO, São Luís - MA	-2,657102	-44	125197,5778	t clínquer
+206	Produção cimento	Maranhão	5	Açaiândia	2017	CIMENTO VERDE DO BRASIL, Açaiândia - MA	-4,893095	-47	125197,5778	t clínquer
+207	Produção cimento	Maranhão	5	Bacabeira	2017	ICIBRA, Bacabeira - MA	-2,911047	-44	125197,5778	t clínquer
+208	Produção cimento	Maranhão	5	Codó	2017	NASSAU (Grupo João Santos), Codó - MA	-4,524981	-44	125197,5778	t clínquer
+209	Produção cimento	Maranhão	5	São Luis	2017	VOTORANTIM CIMENTOS, São Luis - MA	-2,63764	-44	125197,5778	t clínquer
+210	Produção cimento	Maranhão	5	São Luís	2018	ENTO BRAVO, São Luís - MA	-2,657102	-44	108480,0667	t clínquer
+211	Produção cimento	Maranhão	5	Açaiândia	2018	CIMENTO VERDE DO BRASIL, Açaiândia - MA	-4,893095	-47	108480,0667	t clínquer
+212	Produção cimento	Maranhão	5	Bacabeira	2018	ICIBRA, Bacabeira - MA	-2,911047	-44	108480,0667	t clínquer
+213	Produção cimento	Maranhão	5	Codó	2018	NASSAU (Grupo João Santos), Codó - MA	-4,524981	-44	108480,0667	t clínquer
+214	Produção cimento	Maranhão	5	São Luis	2018	VOTORANTIM CIMENTOS, São Luis - MA	-2,63764	-44	108480,0667	t clínquer
+215	Produção cimento	Maranhão	5	São Luís	2019	ENTO BRAVO, São Luís - MA	-2,657102	-44	99624,2	t clínquer
+216	Produção cimento	Maranhão	5	Açaiândia	2019	CIMENTO VERDE DO BRASIL, Açaiândia - MA	-4,893095	-47	99624,2	t clínquer
+217	Produção cimento	Maranhão	5	Bacabeira	2019	ICIBRA, Bacabeira - MA	-2,911047	-44	99624,2	t clínquer
+218	Produção cimento	Maranhão	5	Codó	2019	NASSAU (Grupo João Santos), Codó - MA	-4,524981	-44	99624,2	t clínquer
+219	Produção cimento	Maranhão	5	São Luis	2019	VOTORANTIM CIMENTOS, São Luis - MA	-2,63764	-44	99624,2	t clínquer
+220	Produção cimento	Maranhão	5	São Luís	2020	ENTO BRAVO, São Luís - MA	-2,657102	-44	98606,86667	t clínquer
+221	Produção cimento	Maranhão	5	Açaiândia	2020	CIMENTO VERDE DO BRASIL, Açaiândia - MA	-4,893095	-47	98606,86667	t clínquer
+222	Produção cimento	Maranhão	5	Bacabeira	2020	ICIBRA, Bacabeira - MA	-2,911047	-44	98606,86667	t clínquer
+223	Produção cimento	Maranhão	5	Codó	2020	NASSAU (Grupo João Santos), Codó - MA	-4,524981	-44	98606,86667	t clínquer
+224	Produção cimento	Maranhão	5	São Luis	2020	VOTORANTIM CIMENTOS, São Luis - MA	-2,63764	-44	98606,86667	t clínquer
+225	Produção cimento	Maranhão	5	São Luís	2021	ENTO BRAVO, São Luís - MA	-2,657102	-44	98896,66667	t clínquer
+226	Produção cimento	Maranhão	5	Açaiândia	2021	CIMENTO VERDE DO BRASIL, Açaiândia - MA	-4,893095	-47	98896,66667	t clínquer
+227	Produção cimento	Maranhão	5	Bacabeira	2021	ICIBRA, Bacabeira - MA	-2,911047	-44	98896,66667	t clínquer
+228	Produção cimento	Maranhão	5	Codó	2021	NASSAU (Grupo João Santos), Codó - MA	-4,524981	-44	98896,66667	t clínquer
+229	Produção cimento	Maranhão	5	São Luis	2021	VOTORANTIM CIMENTOS, São Luis - MA	-2,63764	-44	98896,66667	t clínquer
+230	Produção cimento	Maranhão	5	São Luís	2022	ENTO BRAVO, São Luís - MA	-2,657102	-44	51144,28889	t clínquer
+231	Produção cimento	Maranhão	5	Açaiândia	2022	CIMENTO VERDE DO BRASIL, Açaiândia - MA	-4,893095	-47	51144,28889	t clínquer
+232	Produção cimento	Maranhão	5	Bacabeira	2022	ICIBRA, Bacabeira - MA	-2,911047	-44	51144,28889	t clínquer
+233	Produção cimento	Maranhão	5	Codó	2022	NASSAU (Grupo João Santos), Codó - MA	-4,524981	-44	51144,28889	t clínquer
+234	Produção cimento	Maranhão	5	São Luis	2022	VOTORANTIM CIMENTOS, São Luis - MA	-2,63764	-44	51144,28889	t clínquer
+235	Produção cimento	Mato Grosso	2	Cuiabá	2014	VOTORANTIM CIMENTOS, Cuiabá - MT	-15,332621	-56	858584	t clínquer
+236	Produção cimento	Mato Grosso	2	Nobres	2014	VOTORANTIM CIMENTOS, Nobres - MT	-14,64112	-56	858584	t clínquer
+237	Produção cimento	Mato Grosso	2	Cuiabá	2015	VOTORANTIM CIMENTOS, Cuiabá - MT	-15,332621	-56	679656	t clínquer
+238	Produção cimento	Mato Grosso	2	Nobres	2015	VOTORANTIM CIMENTOS, Nobres - MT	-14,64112	-56	679656	t clínquer
+239	Produção cimento	Mato Grosso	2	Cuiabá	2016	VOTORANTIM CIMENTOS, Cuiabá - MT	-15,332621	-56	520614	t clínquer
+240	Produção cimento	Mato Grosso	2	Nobres	2016	VOTORANTIM CIMENTOS, Nobres - MT	-14,64112	-56	520614	t clínquer
+241	Produção cimento	Mato Grosso	2	Cuiabá	2017	VOTORANTIM CIMENTOS, Cuiabá - MT	-15,332621	-56	517019	t clínquer
+242	Produção cimento	Mato Grosso	2	Nobres	2017	VOTORANTIM CIMENTOS, Nobres - MT	-14,64112	-56	517019	t clínquer
+243	Produção cimento	Mato Grosso	2	Cuiabá	2018	VOTORANTIM CIMENTOS, Cuiabá - MT	-15,332621	-56	587895,5	t clínquer
+244	Produção cimento	Mato Grosso	2	Nobres	2018	VOTORANTIM CIMENTOS, Nobres - MT	-14,64112	-56	587895,5	t clínquer
+245	Produção cimento	Mato Grosso	2	Cuiabá	2019	VOTORANTIM CIMENTOS, Cuiabá - MT	-15,332621	-56	564081,5	t clínquer
+246	Produção cimento	Mato Grosso	2	Nobres	2019	VOTORANTIM CIMENTOS, Nobres - MT	-14,64112	-56	564081,5	t clínquer
+247	Produção cimento	Mato Grosso	2	Cuiabá	2020	VOTORANTIM CIMENTOS, Cuiabá - MT	-15,332621	-56	637126,5	t clínquer
+248	Produção cimento	Mato Grosso	2	Nobres	2020	VOTORANTIM CIMENTOS, Nobres - MT	-14,64112	-56	637126,5	t clínquer
+249	Produção cimento	Mato Grosso	2	Cuiabá	2021	VOTORANTIM CIMENTOS, Cuiabá - MT	-15,332621	-56	701117	t clínquer
+250	Produção cimento	Mato Grosso	2	Nobres	2021	VOTORANTIM CIMENTOS, Nobres - MT	-14,64112	-56	701117	t clínquer
+251	Produção cimento	Mato Grosso	2	Cuiabá	2022	VOTORANTIM CIMENTOS, Cuiabá - MT	-15,332621	-56	422283	t clínquer
+252	Produção cimento	Mato Grosso	2	Nobres	2022	VOTORANTIM CIMENTOS, Nobres - MT	-14,64112	-56	422283	t clínquer
+253	Produção cimento	Mato Grosso do Sul	2	Bodoquena	2014	INTERCEMENT, Bodoquena - MS	-20,475128	-57	439098,5	t clínquer
+254	Produção cimento	Mato Grosso do Sul	2	Corumbá	2014	VOTORANTIM CIMENTOS, Corumbá - MS	-19,004609	-58	439098,5	t clínquer
+255	Produção cimento	Mato Grosso do Sul	2	Bodoquena	2015	INTERCEMENT, Bodoquena - MS	-20,475128	-57	425370,5	t clínquer
+256	Produção cimento	Mato Grosso do Sul	2	Corumbá	2015	VOTORANTIM CIMENTOS, Corumbá - MS	-19,004609	-58	425370,5	t clínquer
+257	Produção cimento	Mato Grosso do Sul	2	Bodoquena	2016	INTERCEMENT, Bodoquena - MS	-20,475128	-57	367180,5	t clínquer
+258	Produção cimento	Mato Grosso do Sul	2	Corumbá	2016	VOTORANTIM CIMENTOS, Corumbá - MS	-19,004609	-58	367180,5	t clínquer
+259	Produção cimento	Mato Grosso do Sul	2	Bodoquena	2017	INTERCEMENT, Bodoquena - MS	-20,475128	-57	318514	t clínquer
+260	Produção cimento	Mato Grosso do Sul	2	Corumbá	2017	VOTORANTIM CIMENTOS, Corumbá - MS	-19,004609	-58	318514	t clínquer
+261	Produção cimento	Mato Grosso do Sul	2	Bodoquena	2018	INTERCEMENT, Bodoquena - MS	-20,475128	-57	308401	t clínquer
+262	Produção cimento	Mato Grosso do Sul	2	Corumbá	2018	VOTORANTIM CIMENTOS, Corumbá - MS	-19,004609	-58	308401	t clínquer
+263	Produção cimento	Mato Grosso do Sul	2	Bodoquena	2019	INTERCEMENT, Bodoquena - MS	-20,475128	-57	350291,5	t clínquer
+264	Produção cimento	Mato Grosso do Sul	2	Corumbá	2019	VOTORANTIM CIMENTOS, Corumbá - MS	-19,004609	-58	350291,5	t clínquer
+265	Produção cimento	Mato Grosso do Sul	2	Bodoquena	2020	INTERCEMENT, Bodoquena - MS	-20,475128	-57	416239,5	t clínquer
+266	Produção cimento	Mato Grosso do Sul	2	Corumbá	2020	VOTORANTIM CIMENTOS, Corumbá - MS	-19,004609	-58	416239,5	t clínquer
+267	Produção cimento	Mato Grosso do Sul	2	Bodoquena	2021	INTERCEMENT, Bodoquena - MS	-20,475128	-57	453629,5	t clínquer
+268	Produção cimento	Mato Grosso do Sul	2	Corumbá	2021	VOTORANTIM CIMENTOS, Corumbá - MS	-19,004609	-58	453629,5	t clínquer
+269	Produção cimento	Mato Grosso do Sul	2	Bodoquena	2022	INTERCEMENT, Bodoquena - MS	-20,475128	-57	270315	t clínquer
+270	Produção cimento	Mato Grosso do Sul	2	Corumbá	2022	VOTORANTIM CIMENTOS, Corumbá - MS	-19,004609	-58	270315	t clínquer
+271	Produção cimento	Minas Gerais	16	Sete Lagoas	2014	RENNAND, Sete Lagoas - MG	-19,495304	-44	1060976,938	t clínquer
+272	Produção cimento	Minas Gerais	16	Pains	2014	CARMOCAL, Pains - MG	-20,387358	-46	1060976,938	t clínquer
+273	Produção cimento	Minas Gerais	16	Vespasiano	2014	CIMENTOS LIZ, Vespasiano - MG	-19,685616	-44	1060976,938	t clínquer
+274	Produção cimento	Minas Gerais	16	Matozinhos	2014	CRH, Matozinhos - MG	-19,540672	-44	1060976,938	t clínquer
+275	Produção cimento	Minas Gerais	16	Arcos	2014	CRH, Arcos - MG	-20,31549	-46	1060976,938	t clínquer
+276	Produção cimento	Minas Gerais	16	Santa Luzia	2014	CRH, Santa Luzia - MG	-19,810599	-44	1060976,938	t clínquer
+277	Produção cimento	Minas Gerais	16	Arcos	2014	CSN, Arcos - MG	-20,315384	-46	1060976,938	t clínquer
+278	Produção cimento	Minas Gerais	16	Ijaci	2014	INTERCEMENT, Ijaci - MG	-21,193017	-45	1060976,938	t clínquer
+279	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2014	INTERCEMENT, Pedro Leopoldo - MG	-19,627601	-44	1060976,938	t clínquer
+280	Produção cimento	Minas Gerais	16	Santana do Paraíso	2014	INTERCEMENT, Santana do Paraíso - MG	-19,476597	-42	1060976,938	t clínquer
+281	Produção cimento	Minas Gerais	16	Barroso	2014	LAFARGEHOLCIM, Barroso - MG	-21,182722	-44	1060976,938	t clínquer
+282	Produção cimento	Minas Gerais	16	Montes Claros	2014	LAFARGEHOLCIM, Montes Claros - MG	-16,680796	-44	1060976,938	t clínquer
+283	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2014	LAFARGEHOLCIM, Pedro Leopoldo - MG	-19,608196	-44	1060976,938	t clínquer
+284	Produção cimento	Minas Gerais	16	Santa Luzia	2014	LAFARGEHOLCIM, Santa Luzia - MG	-19,810343	-44	1060976,938	t clínquer
+285	Produção cimento	Minas Gerais	16	Carandaí	2014	TUPI, Carandaí - MG	-20,899453	-44	1060976,938	t clínquer
+286	Produção cimento	Minas Gerais	16	Itaú de Minas	2014	VOTORANTIM CIMENTOS, Itaú de Minas - MG	-20,761326	-47	1060976,938	t clínquer
+287	Produção cimento	Minas Gerais	16	Sete Lagoas	2015	RENNAND, Sete Lagoas - MG	-19,495304	-44	937520,625	t clínquer
+288	Produção cimento	Minas Gerais	16	Pains	2015	CARMOCAL, Pains - MG	-20,387358	-46	937520,625	t clínquer
+289	Produção cimento	Minas Gerais	16	Vespasiano	2015	CIMENTOS LIZ, Vespasiano - MG	-19,685616	-44	937520,625	t clínquer
+290	Produção cimento	Minas Gerais	16	Matozinhos	2015	CRH, Matozinhos - MG	-19,540672	-44	937520,625	t clínquer
+291	Produção cimento	Minas Gerais	16	Arcos	2015	CRH, Arcos - MG	-20,31549	-46	937520,625	t clínquer
+292	Produção cimento	Minas Gerais	16	Santa Luzia	2015	CRH, Santa Luzia - MG	-19,810599	-44	937520,625	t clínquer
+293	Produção cimento	Minas Gerais	16	Arcos	2015	CSN, Arcos - MG	-20,315384	-46	937520,625	t clínquer
+294	Produção cimento	Minas Gerais	16	Ijaci	2015	INTERCEMENT, Ijaci - MG	-21,193017	-45	937520,625	t clínquer
+295	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2015	INTERCEMENT, Pedro Leopoldo - MG	-19,627601	-44	937520,625	t clínquer
+296	Produção cimento	Minas Gerais	16	Santana do Paraíso	2015	INTERCEMENT, Santana do Paraíso - MG	-19,476597	-42	937520,625	t clínquer
+297	Produção cimento	Minas Gerais	16	Barroso	2015	LAFARGEHOLCIM, Barroso - MG	-21,182722	-44	937520,625	t clínquer
+298	Produção cimento	Minas Gerais	16	Montes Claros	2015	LAFARGEHOLCIM, Montes Claros - MG	-16,680796	-44	937520,625	t clínquer
+299	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2015	LAFARGEHOLCIM, Pedro Leopoldo - MG	-19,608196	-44	937520,625	t clínquer
+300	Produção cimento	Minas Gerais	16	Santa Luzia	2015	LAFARGEHOLCIM, Santa Luzia - MG	-19,810343	-44	937520,625	t clínquer
+301	Produção cimento	Minas Gerais	16	Carandaí	2015	TUPI, Carandaí - MG	-20,899453	-44	937520,625	t clínquer
+302	Produção cimento	Minas Gerais	16	Itaú de Minas	2015	VOTORANTIM CIMENTOS, Itaú de Minas - MG	-20,761326	-47	937520,625	t clínquer
+303	Produção cimento	Minas Gerais	16	Sete Lagoas	2016	RENNAND, Sete Lagoas - MG	-19,495304	-44	826616,5625	t clínquer
+304	Produção cimento	Minas Gerais	16	Pains	2016	CARMOCAL, Pains - MG	-20,387358	-46	826616,5625	t clínquer
+305	Produção cimento	Minas Gerais	16	Vespasiano	2016	CIMENTOS LIZ, Vespasiano - MG	-19,685616	-44	826616,5625	t clínquer
+306	Produção cimento	Minas Gerais	16	Matozinhos	2016	CRH, Matozinhos - MG	-19,540672	-44	826616,5625	t clínquer
+307	Produção cimento	Minas Gerais	16	Arcos	2016	CRH, Arcos - MG	-20,31549	-46	826616,5625	t clínquer
+308	Produção cimento	Minas Gerais	16	Santa Luzia	2016	CRH, Santa Luzia - MG	-19,810599	-44	826616,5625	t clínquer
+309	Produção cimento	Minas Gerais	16	Arcos	2016	CSN, Arcos - MG	-20,315384	-46	826616,5625	t clínquer
+310	Produção cimento	Minas Gerais	16	Ijaci	2016	INTERCEMENT, Ijaci - MG	-21,193017	-45	826616,5625	t clínquer
+311	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2016	INTERCEMENT, Pedro Leopoldo - MG	-19,627601	-44	826616,5625	t clínquer
+312	Produção cimento	Minas Gerais	16	Santana do Paraíso	2016	INTERCEMENT, Santana do Paraíso - MG	-19,476597	-42	826616,5625	t clínquer
+313	Produção cimento	Minas Gerais	16	Barroso	2016	LAFARGEHOLCIM, Barroso - MG	-21,182722	-44	826616,5625	t clínquer
+314	Produção cimento	Minas Gerais	16	Montes Claros	2016	LAFARGEHOLCIM, Montes Claros - MG	-16,680796	-44	826616,5625	t clínquer
+315	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2016	LAFARGEHOLCIM, Pedro Leopoldo - MG	-19,608196	-44	826616,5625	t clínquer
+316	Produção cimento	Minas Gerais	16	Santa Luzia	2016	LAFARGEHOLCIM, Santa Luzia - MG	-19,810343	-44	826616,5625	t clínquer
+317	Produção cimento	Minas Gerais	16	Carandaí	2016	TUPI, Carandaí - MG	-20,899453	-44	826616,5625	t clínquer
+318	Produção cimento	Minas Gerais	16	Itaú de Minas	2016	VOTORANTIM CIMENTOS, Itaú de Minas - MG	-20,761326	-47	826616,5625	t clínquer
+319	Produção cimento	Minas Gerais	16	Sete Lagoas	2017	RENNAND, Sete Lagoas - MG	-19,495304	-44	804678,125	t clínquer
+320	Produção cimento	Minas Gerais	16	Pains	2017	CARMOCAL, Pains - MG	-20,387358	-46	804678,125	t clínquer
+321	Produção cimento	Minas Gerais	16	Vespasiano	2017	CIMENTOS LIZ, Vespasiano - MG	-19,685616	-44	804678,125	t clínquer
+322	Produção cimento	Minas Gerais	16	Matozinhos	2017	CRH, Matozinhos - MG	-19,540672	-44	804678,125	t clínquer
+323	Produção cimento	Minas Gerais	16	Arcos	2017	CRH, Arcos - MG	-20,31549	-46	804678,125	t clínquer
+324	Produção cimento	Minas Gerais	16	Santa Luzia	2017	CRH, Santa Luzia - MG	-19,810599	-44	804678,125	t clínquer
+325	Produção cimento	Minas Gerais	16	Arcos	2017	CSN, Arcos - MG	-20,315384	-46	804678,125	t clínquer
+326	Produção cimento	Minas Gerais	16	Ijaci	2017	INTERCEMENT, Ijaci - MG	-21,193017	-45	804678,125	t clínquer
+327	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2017	INTERCEMENT, Pedro Leopoldo - MG	-19,627601	-44	804678,125	t clínquer
+328	Produção cimento	Minas Gerais	16	Santana do Paraíso	2017	INTERCEMENT, Santana do Paraíso - MG	-19,476597	-42	804678,125	t clínquer
+329	Produção cimento	Minas Gerais	16	Barroso	2017	LAFARGEHOLCIM, Barroso - MG	-21,182722	-44	804678,125	t clínquer
+330	Produção cimento	Minas Gerais	16	Montes Claros	2017	LAFARGEHOLCIM, Montes Claros - MG	-16,680796	-44	804678,125	t clínquer
+331	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2017	LAFARGEHOLCIM, Pedro Leopoldo - MG	-19,608196	-44	804678,125	t clínquer
+332	Produção cimento	Minas Gerais	16	Santa Luzia	2017	LAFARGEHOLCIM, Santa Luzia - MG	-19,810343	-44	804678,125	t clínquer
+333	Produção cimento	Minas Gerais	16	Carandaí	2017	TUPI, Carandaí - MG	-20,899453	-44	804678,125	t clínquer
+334	Produção cimento	Minas Gerais	16	Itaú de Minas	2017	VOTORANTIM CIMENTOS, Itaú de Minas - MG	-20,761326	-47	804678,125	t clínquer
+335	Produção cimento	Minas Gerais	16	Sete Lagoas	2018	RENNAND, Sete Lagoas - MG	-19,495304	-44	862279,125	t clínquer
+336	Produção cimento	Minas Gerais	16	Pains	2018	CARMOCAL, Pains - MG	-20,387358	-46	862279,125	t clínquer
+337	Produção cimento	Minas Gerais	16	Vespasiano	2018	CIMENTOS LIZ, Vespasiano - MG	-19,685616	-44	862279,125	t clínquer
+338	Produção cimento	Minas Gerais	16	Matozinhos	2018	CRH, Matozinhos - MG	-19,540672	-44	862279,125	t clínquer
+339	Produção cimento	Minas Gerais	16	Arcos	2018	CRH, Arcos - MG	-20,31549	-46	862279,125	t clínquer
+340	Produção cimento	Minas Gerais	16	Santa Luzia	2018	CRH, Santa Luzia - MG	-19,810599	-44	862279,125	t clínquer
+341	Produção cimento	Minas Gerais	16	Arcos	2018	CSN, Arcos - MG	-20,315384	-46	862279,125	t clínquer
+342	Produção cimento	Minas Gerais	16	Ijaci	2018	INTERCEMENT, Ijaci - MG	-21,193017	-45	862279,125	t clínquer
+343	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2018	INTERCEMENT, Pedro Leopoldo - MG	-19,627601	-44	862279,125	t clínquer
+344	Produção cimento	Minas Gerais	16	Santana do Paraíso	2018	INTERCEMENT, Santana do Paraíso - MG	-19,476597	-42	862279,125	t clínquer
+345	Produção cimento	Minas Gerais	16	Barroso	2018	LAFARGEHOLCIM, Barroso - MG	-21,182722	-44	862279,125	t clínquer
+346	Produção cimento	Minas Gerais	16	Montes Claros	2018	LAFARGEHOLCIM, Montes Claros - MG	-16,680796	-44	862279,125	t clínquer
+347	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2018	LAFARGEHOLCIM, Pedro Leopoldo - MG	-19,608196	-44	862279,125	t clínquer
+348	Produção cimento	Minas Gerais	16	Santa Luzia	2018	LAFARGEHOLCIM, Santa Luzia - MG	-19,810343	-44	862279,125	t clínquer
+349	Produção cimento	Minas Gerais	16	Carandaí	2018	TUPI, Carandaí - MG	-20,899453	-44	862279,125	t clínquer
+350	Produção cimento	Minas Gerais	16	Itaú de Minas	2018	VOTORANTIM CIMENTOS, Itaú de Minas - MG	-20,761326	-47	862279,125	t clínquer
+351	Produção cimento	Minas Gerais	16	Sete Lagoas	2019	RENNAND, Sete Lagoas - MG	-19,495304	-44	995014,625	t clínquer
+352	Produção cimento	Minas Gerais	16	Pains	2019	CARMOCAL, Pains - MG	-20,387358	-46	995014,625	t clínquer
+353	Produção cimento	Minas Gerais	16	Vespasiano	2019	CIMENTOS LIZ, Vespasiano - MG	-19,685616	-44	995014,625	t clínquer
+354	Produção cimento	Minas Gerais	16	Matozinhos	2019	CRH, Matozinhos - MG	-19,540672	-44	995014,625	t clínquer
+355	Produção cimento	Minas Gerais	16	Arcos	2019	CRH, Arcos - MG	-20,31549	-46	995014,625	t clínquer
+356	Produção cimento	Minas Gerais	16	Santa Luzia	2019	CRH, Santa Luzia - MG	-19,810599	-44	995014,625	t clínquer
+357	Produção cimento	Minas Gerais	16	Arcos	2019	CSN, Arcos - MG	-20,315384	-46	995014,625	t clínquer
+358	Produção cimento	Minas Gerais	16	Ijaci	2019	INTERCEMENT, Ijaci - MG	-21,193017	-45	995014,625	t clínquer
+359	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2019	INTERCEMENT, Pedro Leopoldo - MG	-19,627601	-44	995014,625	t clínquer
+360	Produção cimento	Minas Gerais	16	Santana do Paraíso	2019	INTERCEMENT, Santana do Paraíso - MG	-19,476597	-42	995014,625	t clínquer
+361	Produção cimento	Minas Gerais	16	Barroso	2019	LAFARGEHOLCIM, Barroso - MG	-21,182722	-44	995014,625	t clínquer
+362	Produção cimento	Minas Gerais	16	Montes Claros	2019	LAFARGEHOLCIM, Montes Claros - MG	-16,680796	-44	995014,625	t clínquer
+363	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2019	LAFARGEHOLCIM, Pedro Leopoldo - MG	-19,608196	-44	995014,625	t clínquer
+364	Produção cimento	Minas Gerais	16	Santa Luzia	2019	LAFARGEHOLCIM, Santa Luzia - MG	-19,810343	-44	995014,625	t clínquer
+365	Produção cimento	Minas Gerais	16	Carandaí	2019	TUPI, Carandaí - MG	-20,899453	-44	995014,625	t clínquer
+366	Produção cimento	Minas Gerais	16	Itaú de Minas	2019	VOTORANTIM CIMENTOS, Itaú de Minas - MG	-20,761326	-47	995014,625	t clínquer
+367	Produção cimento	Minas Gerais	16	Sete Lagoas	2020	RENNAND, Sete Lagoas - MG	-19,495304	-44	996771,5	t clínquer
+368	Produção cimento	Minas Gerais	16	Pains	2020	CARMOCAL, Pains - MG	-20,387358	-46	996771,5	t clínquer
+369	Produção cimento	Minas Gerais	16	Vespasiano	2020	CIMENTOS LIZ, Vespasiano - MG	-19,685616	-44	996771,5	t clínquer
+370	Produção cimento	Minas Gerais	16	Matozinhos	2020	CRH, Matozinhos - MG	-19,540672	-44	996771,5	t clínquer
+371	Produção cimento	Minas Gerais	16	Arcos	2020	CRH, Arcos - MG	-20,31549	-46	996771,5	t clínquer
+372	Produção cimento	Minas Gerais	16	Santa Luzia	2020	CRH, Santa Luzia - MG	-19,810599	-44	996771,5	t clínquer
+373	Produção cimento	Minas Gerais	16	Arcos	2020	CSN, Arcos - MG	-20,315384	-46	996771,5	t clínquer
+374	Produção cimento	Minas Gerais	16	Ijaci	2020	INTERCEMENT, Ijaci - MG	-21,193017	-45	996771,5	t clínquer
+375	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2020	INTERCEMENT, Pedro Leopoldo - MG	-19,627601	-44	996771,5	t clínquer
+376	Produção cimento	Minas Gerais	16	Santana do Paraíso	2020	INTERCEMENT, Santana do Paraíso - MG	-19,476597	-42	996771,5	t clínquer
+377	Produção cimento	Minas Gerais	16	Barroso	2020	LAFARGEHOLCIM, Barroso - MG	-21,182722	-44	996771,5	t clínquer
+378	Produção cimento	Minas Gerais	16	Montes Claros	2020	LAFARGEHOLCIM, Montes Claros - MG	-16,680796	-44	996771,5	t clínquer
+379	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2020	LAFARGEHOLCIM, Pedro Leopoldo - MG	-19,608196	-44	996771,5	t clínquer
+380	Produção cimento	Minas Gerais	16	Santa Luzia	2020	LAFARGEHOLCIM, Santa Luzia - MG	-19,810343	-44	996771,5	t clínquer
+381	Produção cimento	Minas Gerais	16	Carandaí	2020	TUPI, Carandaí - MG	-20,899453	-44	996771,5	t clínquer
+382	Produção cimento	Minas Gerais	16	Itaú de Minas	2020	VOTORANTIM CIMENTOS, Itaú de Minas - MG	-20,761326	-47	996771,5	t clínquer
+383	Produção cimento	Minas Gerais	16	Sete Lagoas	2021	RENNAND, Sete Lagoas - MG	-19,495304	-44	1044172,375	t clínquer
+384	Produção cimento	Minas Gerais	16	Pains	2021	CARMOCAL, Pains - MG	-20,387358	-46	1044172,375	t clínquer
+385	Produção cimento	Minas Gerais	16	Vespasiano	2021	CIMENTOS LIZ, Vespasiano - MG	-19,685616	-44	1044172,375	t clínquer
+386	Produção cimento	Minas Gerais	16	Matozinhos	2021	CRH, Matozinhos - MG	-19,540672	-44	1044172,375	t clínquer
+387	Produção cimento	Minas Gerais	16	Arcos	2021	CRH, Arcos - MG	-20,31549	-46	1044172,375	t clínquer
+388	Produção cimento	Minas Gerais	16	Santa Luzia	2021	CRH, Santa Luzia - MG	-19,810599	-44	1044172,375	t clínquer
+389	Produção cimento	Minas Gerais	16	Arcos	2021	CSN, Arcos - MG	-20,315384	-46	1044172,375	t clínquer
+390	Produção cimento	Minas Gerais	16	Ijaci	2021	INTERCEMENT, Ijaci - MG	-21,193017	-45	1044172,375	t clínquer
+391	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2021	INTERCEMENT, Pedro Leopoldo - MG	-19,627601	-44	1044172,375	t clínquer
+392	Produção cimento	Minas Gerais	16	Santana do Paraíso	2021	INTERCEMENT, Santana do Paraíso - MG	-19,476597	-42	1044172,375	t clínquer
+393	Produção cimento	Minas Gerais	16	Barroso	2021	LAFARGEHOLCIM, Barroso - MG	-21,182722	-44	1044172,375	t clínquer
+394	Produção cimento	Minas Gerais	16	Montes Claros	2021	LAFARGEHOLCIM, Montes Claros - MG	-16,680796	-44	1044172,375	t clínquer
+395	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2021	LAFARGEHOLCIM, Pedro Leopoldo - MG	-19,608196	-44	1044172,375	t clínquer
+396	Produção cimento	Minas Gerais	16	Santa Luzia	2021	LAFARGEHOLCIM, Santa Luzia - MG	-19,810343	-44	1044172,375	t clínquer
+397	Produção cimento	Minas Gerais	16	Carandaí	2021	TUPI, Carandaí - MG	-20,899453	-44	1044172,375	t clínquer
+398	Produção cimento	Minas Gerais	16	Itaú de Minas	2021	VOTORANTIM CIMENTOS, Itaú de Minas - MG	-20,761326	-47	1044172,375	t clínquer
+399	Produção cimento	Minas Gerais	16	Sete Lagoas	2022	RENNAND, Sete Lagoas - MG	-19,495304	-44	577745,9375	t clínquer
+400	Produção cimento	Minas Gerais	16	Pains	2022	CARMOCAL, Pains - MG	-20,387358	-46	577745,9375	t clínquer
+401	Produção cimento	Minas Gerais	16	Vespasiano	2022	CIMENTOS LIZ, Vespasiano - MG	-19,685616	-44	577745,9375	t clínquer
+402	Produção cimento	Minas Gerais	16	Matozinhos	2022	CRH, Matozinhos - MG	-19,540672	-44	577745,9375	t clínquer
+403	Produção cimento	Minas Gerais	16	Arcos	2022	CRH, Arcos - MG	-20,31549	-46	577745,9375	t clínquer
+404	Produção cimento	Minas Gerais	16	Santa Luzia	2022	CRH, Santa Luzia - MG	-19,810599	-44	577745,9375	t clínquer
+405	Produção cimento	Minas Gerais	16	Arcos	2022	CSN, Arcos - MG	-20,315384	-46	577745,9375	t clínquer
+406	Produção cimento	Minas Gerais	16	Ijaci	2022	INTERCEMENT, Ijaci - MG	-21,193017	-45	577745,9375	t clínquer
+407	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2022	INTERCEMENT, Pedro Leopoldo - MG	-19,627601	-44	577745,9375	t clínquer
+408	Produção cimento	Minas Gerais	16	Santana do Paraíso	2022	INTERCEMENT, Santana do Paraíso - MG	-19,476597	-42	577745,9375	t clínquer
+409	Produção cimento	Minas Gerais	16	Barroso	2022	LAFARGEHOLCIM, Barroso - MG	-21,182722	-44	577745,9375	t clínquer
+410	Produção cimento	Minas Gerais	16	Montes Claros	2022	LAFARGEHOLCIM, Montes Claros - MG	-16,680796	-44	577745,9375	t clínquer
+411	Produção cimento	Minas Gerais	16	Pedro Leopoldo	2022	LAFARGEHOLCIM, Pedro Leopoldo - MG	-19,608196	-44	577745,9375	t clínquer
+412	Produção cimento	Minas Gerais	16	Santa Luzia	2022	LAFARGEHOLCIM, Santa Luzia - MG	-19,810343	-44	577745,9375	t clínquer
+413	Produção cimento	Minas Gerais	16	Carandaí	2022	TUPI, Carandaí - MG	-20,899453	-44	577745,9375	t clínquer
+414	Produção cimento	Minas Gerais	16	Itaú de Minas	2022	VOTORANTIM CIMENTOS, Itaú de Minas - MG	-20,761326	-47	577745,9375	t clínquer
+415	Produção cimento	Paraná	3	Balsa Nova	2014	ITAMBÉ, Balsa Nova - PR	-25,458566	-50	2067482,556	t clínquer
+416	Produção cimento	Paraná	3	Adrianopolis	2014	SUPREMOSECIL, Adrianopolis - PR	-24,66823	-49	2067482,556	t clínquer
+417	Produção cimento	Paraná	3	Rio Branco do Sul	2014	VOTORANTIM CIMENTOS, Rio Branco do Sul - PR	-25,192063	-49	2067482,556	t clínquer
+418	Produção cimento	Paraná	3	Balsa Nova	2015	ITAMBÉ, Balsa Nova - PR	-25,458566	-50	2009431,111	t clínquer
+419	Produção cimento	Paraná	3	Adrianopolis	2015	SUPREMOSECIL, Adrianopolis - PR	-24,66823	-49	2009431,111	t clínquer
+420	Produção cimento	Paraná	3	Rio Branco do Sul	2015	VOTORANTIM CIMENTOS, Rio Branco do Sul - PR	-25,192063	-49	2009431,111	t clínquer
+421	Produção cimento	Paraná	3	Balsa Nova	2016	ITAMBÉ, Balsa Nova - PR	-25,458566	-50	2103539,556	t clínquer
+422	Produção cimento	Paraná	3	Adrianopolis	2016	SUPREMOSECIL, Adrianopolis - PR	-24,66823	-49	2103539,556	t clínquer
+423	Produção cimento	Paraná	3	Rio Branco do Sul	2016	VOTORANTIM CIMENTOS, Rio Branco do Sul - PR	-25,192063	-49	2103539,556	t clínquer
+424	Produção cimento	Paraná	3	Balsa Nova	2017	ITAMBÉ, Balsa Nova - PR	-25,458566	-50	1951830,667	t clínquer
+425	Produção cimento	Paraná	3	Adrianopolis	2017	SUPREMOSECIL, Adrianopolis - PR	-24,66823	-49	1951830,667	t clínquer
+426	Produção cimento	Paraná	3	Rio Branco do Sul	2017	VOTORANTIM CIMENTOS, Rio Branco do Sul - PR	-25,192063	-49	1951830,667	t clínquer
+427	Produção cimento	Paraná	3	Balsa Nova	2018	ITAMBÉ, Balsa Nova - PR	-25,458566	-50	2004643,222	t clínquer
+428	Produção cimento	Paraná	3	Adrianopolis	2018	SUPREMOSECIL, Adrianopolis - PR	-24,66823	-49	2004643,222	t clínquer
+429	Produção cimento	Paraná	3	Rio Branco do Sul	2018	VOTORANTIM CIMENTOS, Rio Branco do Sul - PR	-25,192063	-49	2004643,222	t clínquer
+430	Produção cimento	Paraná	3	Balsa Nova	2019	ITAMBÉ, Balsa Nova - PR	-25,458566	-50	2057517	t clínquer
+431	Produção cimento	Paraná	3	Adrianopolis	2019	SUPREMOSECIL, Adrianopolis - PR	-24,66823	-49	2057517	t clínquer
+432	Produção cimento	Paraná	3	Rio Branco do Sul	2019	VOTORANTIM CIMENTOS, Rio Branco do Sul - PR	-25,192063	-49	2057517	t clínquer
+433	Produção cimento	Paraná	3	Balsa Nova	2020	ITAMBÉ, Balsa Nova - PR	-25,458566	-50	2296444,556	t clínquer
+434	Produção cimento	Paraná	3	Adrianopolis	2020	SUPREMOSECIL, Adrianopolis - PR	-24,66823	-49	2296444,556	t clínquer
+435	Produção cimento	Paraná	3	Rio Branco do Sul	2020	VOTORANTIM CIMENTOS, Rio Branco do Sul - PR	-25,192063	-49	2296444,556	t clínquer
+436	Produção cimento	Paraná	3	Balsa Nova	2021	ITAMBÉ, Balsa Nova - PR	-25,458566	-50	2626440	t clínquer
+437	Produção cimento	Paraná	3	Adrianopolis	2021	SUPREMOSECIL, Adrianopolis - PR	-24,66823	-49	2626440	t clínquer
+438	Produção cimento	Paraná	3	Rio Branco do Sul	2021	VOTORANTIM CIMENTOS, Rio Branco do Sul - PR	-25,192063	-49	2626440	t clínquer
+439	Produção cimento	Paraná	3	Balsa Nova	2022	ITAMBÉ, Balsa Nova - PR	-25,458566	-50	1482245,333	t clínquer
+440	Produção cimento	Paraná	3	Adrianopolis	2022	SUPREMOSECIL, Adrianopolis - PR	-24,66823	-49	1482245,333	t clínquer
+441	Produção cimento	Paraná	3	Rio Branco do Sul	2022	VOTORANTIM CIMENTOS, Rio Branco do Sul - PR	-25,192063	-49	1482245,333	t clínquer
+442	Produção cimento	Paraíba	4	Pitimbu	2014	BRENNAND, Pitimbu - PB	-7,476009	-35	580800,3889	t clínquer
+443	Produção cimento	Paraíba	4	Alhandra	2014	ELIZABETH, Alhandra - PB	-7,371946	-35	580800,3889	t clínquer
+444	Produção cimento	Paraíba	4	João Pessoa	2014	INTERCEMENT, João Pessoa - PB	-7,127164	-35	580800,3889	t clínquer
+445	Produção cimento	Paraíba	4	Caaporã	2014	LAFARGEHOLCIM, Caaporã - PB	-7,523418	-35	580800,3889	t clínquer
+446	Produção cimento	Paraíba	4	Pitimbu	2015	BRENNAND, Pitimbu - PB	-7,476009	-35	514111,8056	t clínquer
+447	Produção cimento	Paraíba	4	Alhandra	2015	ELIZABETH, Alhandra - PB	-7,371946	-35	514111,8056	t clínquer
+448	Produção cimento	Paraíba	4	João Pessoa	2015	INTERCEMENT, João Pessoa - PB	-7,127164	-35	514111,8056	t clínquer
+449	Produção cimento	Paraíba	4	Caaporã	2015	LAFARGEHOLCIM, Caaporã - PB	-7,523418	-35	514111,8056	t clínquer
+450	Produção cimento	Paraíba	4	Pitimbu	2016	BRENNAND, Pitimbu - PB	-7,476009	-35	619387,1111	t clínquer
+451	Produção cimento	Paraíba	4	Alhandra	2016	ELIZABETH, Alhandra - PB	-7,371946	-35	619387,1111	t clínquer
+452	Produção cimento	Paraíba	4	João Pessoa	2016	INTERCEMENT, João Pessoa - PB	-7,127164	-35	619387,1111	t clínquer
+453	Produção cimento	Paraíba	4	Caaporã	2016	LAFARGEHOLCIM, Caaporã - PB	-7,523418	-35	619387,1111	t clínquer
+454	Produção cimento	Paraíba	4	Pitimbu	2017	BRENNAND, Pitimbu - PB	-7,476009	-35	617123,2222	t clínquer
+455	Produção cimento	Paraíba	4	Alhandra	2017	ELIZABETH, Alhandra - PB	-7,371946	-35	617123,2222	t clínquer
+456	Produção cimento	Paraíba	4	João Pessoa	2017	INTERCEMENT, João Pessoa - PB	-7,127164	-35	617123,2222	t clínquer
+457	Produção cimento	Paraíba	4	Caaporã	2017	LAFARGEHOLCIM, Caaporã - PB	-7,523418	-35	617123,2222	t clínquer
+458	Produção cimento	Paraíba	4	Pitimbu	2018	BRENNAND, Pitimbu - PB	-7,476009	-35	633090,3333	t clínquer
+459	Produção cimento	Paraíba	4	Alhandra	2018	ELIZABETH, Alhandra - PB	-7,371946	-35	633090,3333	t clínquer
+460	Produção cimento	Paraíba	4	João Pessoa	2018	INTERCEMENT, João Pessoa - PB	-7,127164	-35	633090,3333	t clínquer
+461	Produção cimento	Paraíba	4	Caaporã	2018	LAFARGEHOLCIM, Caaporã - PB	-7,523418	-35	633090,3333	t clínquer
+462	Produção cimento	Paraíba	4	Pitimbu	2019	BRENNAND, Pitimbu - PB	-7,476009	-35	753547	t clínquer
+463	Produção cimento	Paraíba	4	Alhandra	2019	ELIZABETH, Alhandra - PB	-7,371946	-35	753547	t clínquer
+464	Produção cimento	Paraíba	4	João Pessoa	2019	INTERCEMENT, João Pessoa - PB	-7,127164	-35	753547	t clínquer
+465	Produção cimento	Paraíba	4	Caaporã	2019	LAFARGEHOLCIM, Caaporã - PB	-7,523418	-35	753547	t clínquer
+466	Produção cimento	Paraíba	4	Pitimbu	2020	BRENNAND, Pitimbu - PB	-7,476009	-35	878952,0833	t clínquer
+467	Produção cimento	Paraíba	4	Alhandra	2020	ELIZABETH, Alhandra - PB	-7,371946	-35	878952,0833	t clínquer
+468	Produção cimento	Paraíba	4	João Pessoa	2020	INTERCEMENT, João Pessoa - PB	-7,127164	-35	878952,0833	t clínquer
+469	Produção cimento	Paraíba	4	Caaporã	2020	LAFARGEHOLCIM, Caaporã - PB	-7,523418	-35	878952,0833	t clínquer
+470	Produção cimento	Paraíba	4	Pitimbu	2021	BRENNAND, Pitimbu - PB	-7,476009	-35	931137,5833	t clínquer
+471	Produção cimento	Paraíba	4	Alhandra	2021	ELIZABETH, Alhandra - PB	-7,371946	-35	931137,5833	t clínquer
+472	Produção cimento	Paraíba	4	João Pessoa	2021	INTERCEMENT, João Pessoa - PB	-7,127164	-35	931137,5833	t clínquer
+473	Produção cimento	Paraíba	4	Caaporã	2021	LAFARGEHOLCIM, Caaporã - PB	-7,523418	-35	931137,5833	t clínquer
+474	Produção cimento	Paraíba	4	Pitimbu	2022	BRENNAND, Pitimbu - PB	-7,476009	-35	524544,3611	t clínquer
+475	Produção cimento	Paraíba	4	Alhandra	2022	ELIZABETH, Alhandra - PB	-7,371946	-35	524544,3611	t clínquer
+476	Produção cimento	Paraíba	4	João Pessoa	2022	INTERCEMENT, João Pessoa - PB	-7,127164	-35	524544,3611	t clínquer
+477	Produção cimento	Paraíba	4	Caaporã	2022	LAFARGEHOLCIM, Caaporã - PB	-7,523418	-35	524544,3611	t clínquer
+478	Produção cimento	Pará	3	Capanema	2014	NASSAU (Grupo João Santos), Capanema - PA	-1,215072	-47	532307,3333	t clínquer
+479	Produção cimento	Pará	3	Itaituba	2014	NASSAU (Grupo João Santos), Itaituba - PA	-4,32251	-56	532307,3333	t clínquer
+480	Produção cimento	Pará	3	Primavera	2014	VOTORANTIM CIMENTOS, Primavera - PA	-0,981969	-47	532307,3333	t clínquer
+481	Produção cimento	Pará	3	Capanema	2015	NASSAU (Grupo João Santos), Capanema - PA	-1,215072	-47	424080,3333	t clínquer
+482	Produção cimento	Pará	3	Itaituba	2015	NASSAU (Grupo João Santos), Itaituba - PA	-4,32251	-56	424080,3333	t clínquer
+483	Produção cimento	Pará	3	Primavera	2015	VOTORANTIM CIMENTOS, Primavera - PA	-0,981969	-47	424080,3333	t clínquer
+484	Produção cimento	Pará	3	Capanema	2016	NASSAU (Grupo João Santos), Capanema - PA	-1,215072	-47	495466,3333	t clínquer
+485	Produção cimento	Pará	3	Itaituba	2016	NASSAU (Grupo João Santos), Itaituba - PA	-4,32251	-56	495466,3333	t clínquer
+486	Produção cimento	Pará	3	Primavera	2016	VOTORANTIM CIMENTOS, Primavera - PA	-0,981969	-47	495466,3333	t clínquer
+487	Produção cimento	Pará	3	Capanema	2017	NASSAU (Grupo João Santos), Capanema - PA	-1,215072	-47	444354,6667	t clínquer
+488	Produção cimento	Pará	3	Itaituba	2017	NASSAU (Grupo João Santos), Itaituba - PA	-4,32251	-56	444354,6667	t clínquer
+489	Produção cimento	Pará	3	Primavera	2017	VOTORANTIM CIMENTOS, Primavera - PA	-0,981969	-47	444354,6667	t clínquer
+490	Produção cimento	Pará	3	Capanema	2018	NASSAU (Grupo João Santos), Capanema - PA	-1,215072	-47	316918,8095	t clínquer
+491	Produção cimento	Pará	3	Itaituba	2018	NASSAU (Grupo João Santos), Itaituba - PA	-4,32251	-56	316918,8095	t clínquer
+492	Produção cimento	Pará	3	Primavera	2018	VOTORANTIM CIMENTOS, Primavera - PA	-0,981969	-47	316918,8095	t clínquer
+493	Produção cimento	Pará	3	Capanema	2019	NASSAU (Grupo João Santos), Capanema - PA	-1,215072	-47	280477,5714	t clínquer
+494	Produção cimento	Pará	3	Itaituba	2019	NASSAU (Grupo João Santos), Itaituba - PA	-4,32251	-56	280477,5714	t clínquer
+495	Produção cimento	Pará	3	Primavera	2019	VOTORANTIM CIMENTOS, Primavera - PA	-0,981969	-47	280477,5714	t clínquer
+496	Produção cimento	Pará	3	Capanema	2020	NASSAU (Grupo João Santos), Capanema - PA	-1,215072	-47	271167,3333	t clínquer
+497	Produção cimento	Pará	3	Itaituba	2020	NASSAU (Grupo João Santos), Itaituba - PA	-4,32251	-56	271167,3333	t clínquer
+498	Produção cimento	Pará	3	Primavera	2020	VOTORANTIM CIMENTOS, Primavera - PA	-0,981969	-47	271167,3333	t clínquer
+499	Produção cimento	Pará	3	Capanema	2021	NASSAU (Grupo João Santos), Capanema - PA	-1,215072	-47	295213,6667	t clínquer
+500	Produção cimento	Pará	3	Itaituba	2021	NASSAU (Grupo João Santos), Itaituba - PA	-4,32251	-56	295213,6667	t clínquer
+501	Produção cimento	Pará	3	Primavera	2021	VOTORANTIM CIMENTOS, Primavera - PA	-0,981969	-47	295213,6667	t clínquer
+502	Produção cimento	Pará	3	Capanema	2022	NASSAU (Grupo João Santos), Capanema - PA	-1,215072	-47	173174,5238	t clínquer
+503	Produção cimento	Pará	3	Itaituba	2022	NASSAU (Grupo João Santos), Itaituba - PA	-4,32251	-56	173174,5238	t clínquer
+504	Produção cimento	Pará	3	Primavera	2022	VOTORANTIM CIMENTOS, Primavera - PA	-0,981969	-47	173174,5238	t clínquer
+505	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2014	CIMENTO FORTE, Cabo de Santo Agostinho - PE	-8,348061	-35	249845,7111	t clínquer
+506	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2014	INTERCEMENT, Cabo de Santo Agostinho - PE	-8,271973	-35	249845,7111	t clínquer
+507	Produção cimento	Pernambuco	5	Goiana	2014	NASSAU (Grupo João Santos) , Goiana - PE	-7,515939	-35	249845,7111	t clínquer
+508	Produção cimento	Pernambuco	5	Carnaíba	2014	PETRIBÚ, Carnaíba - PE	-7,802184	-38	249845,7111	t clínquer
+509	Produção cimento	Pernambuco	5	Paulista	2014	VOTORANTIM CIMENTOS, Paulista - PE	-7,874628	-35	249845,7111	t clínquer
+510	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2015	CIMENTO FORTE, Cabo de Santo Agostinho - PE	-8,348061	-35	197205,2444	t clínquer
+511	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2015	INTERCEMENT, Cabo de Santo Agostinho - PE	-8,271973	-35	197205,2444	t clínquer
+512	Produção cimento	Pernambuco	5	Goiana	2015	NASSAU (Grupo João Santos) , Goiana - PE	-7,515939	-35	197205,2444	t clínquer
+513	Produção cimento	Pernambuco	5	Carnaíba	2015	PETRIBÚ, Carnaíba - PE	-7,802184	-38	197205,2444	t clínquer
+514	Produção cimento	Pernambuco	5	Paulista	2015	VOTORANTIM CIMENTOS, Paulista - PE	-7,874628	-35	197205,2444	t clínquer
+515	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2016	CIMENTO FORTE, Cabo de Santo Agostinho - PE	-8,348061	-35	136568,0889	t clínquer
+516	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2016	INTERCEMENT, Cabo de Santo Agostinho - PE	-8,271973	-35	136568,0889	t clínquer
+517	Produção cimento	Pernambuco	5	Goiana	2016	NASSAU (Grupo João Santos) , Goiana - PE	-7,515939	-35	136568,0889	t clínquer
+518	Produção cimento	Pernambuco	5	Carnaíba	2016	PETRIBÚ, Carnaíba - PE	-7,802184	-38	136568,0889	t clínquer
+519	Produção cimento	Pernambuco	5	Paulista	2016	VOTORANTIM CIMENTOS, Paulista - PE	-7,874628	-35	136568,0889	t clínquer
+520	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2017	CIMENTO FORTE, Cabo de Santo Agostinho - PE	-8,348061	-35	108204,3778	t clínquer
+521	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2017	INTERCEMENT, Cabo de Santo Agostinho - PE	-8,271973	-35	108204,3778	t clínquer
+522	Produção cimento	Pernambuco	5	Goiana	2017	NASSAU (Grupo João Santos) , Goiana - PE	-7,515939	-35	108204,3778	t clínquer
+523	Produção cimento	Pernambuco	5	Carnaíba	2017	PETRIBÚ, Carnaíba - PE	-7,802184	-38	108204,3778	t clínquer
+524	Produção cimento	Pernambuco	5	Paulista	2017	VOTORANTIM CIMENTOS, Paulista - PE	-7,874628	-35	108204,3778	t clínquer
+525	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2018	CIMENTO FORTE, Cabo de Santo Agostinho - PE	-8,348061	-35	88544,66667	t clínquer
+526	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2018	INTERCEMENT, Cabo de Santo Agostinho - PE	-8,271973	-35	88544,66667	t clínquer
+527	Produção cimento	Pernambuco	5	Goiana	2018	NASSAU (Grupo João Santos) , Goiana - PE	-7,515939	-35	88544,66667	t clínquer
+528	Produção cimento	Pernambuco	5	Carnaíba	2018	PETRIBÚ, Carnaíba - PE	-7,802184	-38	88544,66667	t clínquer
+529	Produção cimento	Pernambuco	5	Paulista	2018	VOTORANTIM CIMENTOS, Paulista - PE	-7,874628	-35	88544,66667	t clínquer
+530	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2019	CIMENTO FORTE, Cabo de Santo Agostinho - PE	-8,348061	-35	103423,6	t clínquer
+531	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2019	INTERCEMENT, Cabo de Santo Agostinho - PE	-8,271973	-35	103423,6	t clínquer
+532	Produção cimento	Pernambuco	5	Goiana	2019	NASSAU (Grupo João Santos) , Goiana - PE	-7,515939	-35	103423,6	t clínquer
+533	Produção cimento	Pernambuco	5	Carnaíba	2019	PETRIBÚ, Carnaíba - PE	-7,802184	-38	103423,6	t clínquer
+534	Produção cimento	Pernambuco	5	Paulista	2019	VOTORANTIM CIMENTOS, Paulista - PE	-7,874628	-35	103423,6	t clínquer
+535	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2020	CIMENTO FORTE, Cabo de Santo Agostinho - PE	-8,348061	-35	114071,6667	t clínquer
+536	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2020	INTERCEMENT, Cabo de Santo Agostinho - PE	-8,271973	-35	114071,6667	t clínquer
+537	Produção cimento	Pernambuco	5	Goiana	2020	NASSAU (Grupo João Santos) , Goiana - PE	-7,515939	-35	114071,6667	t clínquer
+538	Produção cimento	Pernambuco	5	Carnaíba	2020	PETRIBÚ, Carnaíba - PE	-7,802184	-38	114071,6667	t clínquer
+539	Produção cimento	Pernambuco	5	Paulista	2020	VOTORANTIM CIMENTOS, Paulista - PE	-7,874628	-35	114071,6667	t clínquer
+540	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2021	CIMENTO FORTE, Cabo de Santo Agostinho - PE	-8,348061	-35	94647,26667	t clínquer
+541	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2021	INTERCEMENT, Cabo de Santo Agostinho - PE	-8,271973	-35	94647,26667	t clínquer
+542	Produção cimento	Pernambuco	5	Goiana	2021	NASSAU (Grupo João Santos) , Goiana - PE	-7,515939	-35	94647,26667	t clínquer
+543	Produção cimento	Pernambuco	5	Carnaíba	2021	PETRIBÚ, Carnaíba - PE	-7,802184	-38	94647,26667	t clínquer
+544	Produção cimento	Pernambuco	5	Paulista	2021	VOTORANTIM CIMENTOS, Paulista - PE	-7,874628	-35	94647,26667	t clínquer
+545	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2022	CIMENTO FORTE, Cabo de Santo Agostinho - PE	-8,348061	-35	42605,08889	t clínquer
+546	Produção cimento	Pernambuco	5	Cabo de Santo Agostinho	2022	INTERCEMENT, Cabo de Santo Agostinho - PE	-8,271973	-35	42605,08889	t clínquer
+547	Produção cimento	Pernambuco	5	Goiana	2022	NASSAU (Grupo João Santos) , Goiana - PE	-7,515939	-35	42605,08889	t clínquer
+548	Produção cimento	Pernambuco	5	Carnaíba	2022	PETRIBÚ, Carnaíba - PE	-7,802184	-38	42605,08889	t clínquer
+549	Produção cimento	Pernambuco	5	Paulista	2022	VOTORANTIM CIMENTOS, Paulista - PE	-7,874628	-35	42605,08889	t clínquer
+550	Produção cimento	Piauí	1	Fronteiras	2014	NASSAU (Grupo João Santos), Fronteiras - PI	-7,105743	-41	738075,5556	t clínquer
+551	Produção cimento	Piauí	1	Fronteiras	2015	NASSAU (Grupo João Santos), Fronteiras - PI	-7,105743	-41	772716,2222	t clínquer
+552	Produção cimento	Piauí	1	Fronteiras	2016	NASSAU (Grupo João Santos), Fronteiras - PI	-7,105743	-41	722933,4444	t clínquer
+553	Produção cimento	Piauí	1	Fronteiras	2017	NASSAU (Grupo João Santos), Fronteiras - PI	-7,105743	-41	437458,8889	t clínquer
+554	Produção cimento	Piauí	1	Fronteiras	2018	NASSAU (Grupo João Santos), Fronteiras - PI	-7,105743	-41	228833,3333	t clínquer
+555	Produção cimento	Piauí	1	Fronteiras	2019	NASSAU (Grupo João Santos), Fronteiras - PI	-7,105743	-41	199800	t clínquer
+556	Produção cimento	Piauí	1	Fronteiras	2020	NASSAU (Grupo João Santos), Fronteiras - PI	-7,105743	-41	153133,3333	t clínquer
+557	Produção cimento	Piauí	1	Fronteiras	2021	NASSAU (Grupo João Santos), Fronteiras - PI	-7,105743	-41	138833,3333	t clínquer
+558	Produção cimento	Piauí	1	Fronteiras	2022	NASSAU (Grupo João Santos), Fronteiras - PI	-7,105743	-41	59444,44444	t clínquer
+559	Produção cimento	Rio Grande do Norte	3	Currais Novos	2014	ELO, Currais Novos - RN	-6,277593	-37	643204,8519	t clínquer
+560	Produção cimento	Rio Grande do Norte	3	Mossoró	2014	NASSAU (Grupo João Santos), Mossoró - RN	-5,201992	-37	643204,8519	t clínquer
+561	Produção cimento	Rio Grande do Norte	3	Baraúna	2014	MIZU, Baraúna - RN	-5,073479	-38	643204,8519	t clínquer
+562	Produção cimento	Rio Grande do Norte	3	Currais Novos	2015	ELO, Currais Novos - RN	-6,277593	-37	657015,7407	t clínquer
+563	Produção cimento	Rio Grande do Norte	3	Mossoró	2015	NASSAU (Grupo João Santos), Mossoró - RN	-5,201992	-37	657015,7407	t clínquer
+564	Produção cimento	Rio Grande do Norte	3	Baraúna	2015	MIZU, Baraúna - RN	-5,073479	-38	657015,7407	t clínquer
+565	Produção cimento	Rio Grande do Norte	3	Currais Novos	2016	ELO, Currais Novos - RN	-6,277593	-37	502765,1481	t clínquer
+566	Produção cimento	Rio Grande do Norte	3	Mossoró	2016	NASSAU (Grupo João Santos), Mossoró - RN	-5,201992	-37	502765,1481	t clínquer
+567	Produção cimento	Rio Grande do Norte	3	Baraúna	2016	MIZU, Baraúna - RN	-5,073479	-38	502765,1481	t clínquer
+568	Produção cimento	Rio Grande do Norte	3	Currais Novos	2017	ELO, Currais Novos - RN	-6,277593	-37	393633,963	t clínquer
+569	Produção cimento	Rio Grande do Norte	3	Mossoró	2017	NASSAU (Grupo João Santos), Mossoró - RN	-5,201992	-37	393633,963	t clínquer
+570	Produção cimento	Rio Grande do Norte	3	Baraúna	2017	MIZU, Baraúna - RN	-5,073479	-38	393633,963	t clínquer
+571	Produção cimento	Rio Grande do Norte	3	Currais Novos	2018	ELO, Currais Novos - RN	-6,277593	-37	346550,7778	t clínquer
+572	Produção cimento	Rio Grande do Norte	3	Mossoró	2018	NASSAU (Grupo João Santos), Mossoró - RN	-5,201992	-37	346550,7778	t clínquer
+573	Produção cimento	Rio Grande do Norte	3	Baraúna	2018	MIZU, Baraúna - RN	-5,073479	-38	346550,7778	t clínquer
+574	Produção cimento	Rio Grande do Norte	3	Currais Novos	2019	ELO, Currais Novos - RN	-6,277593	-37	332487,6667	t clínquer
+575	Produção cimento	Rio Grande do Norte	3	Mossoró	2019	NASSAU (Grupo João Santos), Mossoró - RN	-5,201992	-37	332487,6667	t clínquer
+576	Produção cimento	Rio Grande do Norte	3	Baraúna	2019	MIZU, Baraúna - RN	-5,073479	-38	332487,6667	t clínquer
+577	Produção cimento	Rio Grande do Norte	3	Currais Novos	2020	ELO, Currais Novos - RN	-6,277593	-37	408102,4444	t clínquer
+578	Produção cimento	Rio Grande do Norte	3	Mossoró	2020	NASSAU (Grupo João Santos), Mossoró - RN	-5,201992	-37	408102,4444	t clínquer
+579	Produção cimento	Rio Grande do Norte	3	Baraúna	2020	MIZU, Baraúna - RN	-5,073479	-38	408102,4444	t clínquer
+580	Produção cimento	Rio Grande do Norte	3	Currais Novos	2021	ELO, Currais Novos - RN	-6,277593	-37	461022,7778	t clínquer
+581	Produção cimento	Rio Grande do Norte	3	Mossoró	2021	NASSAU (Grupo João Santos), Mossoró - RN	-5,201992	-37	461022,7778	t clínquer
+582	Produção cimento	Rio Grande do Norte	3	Baraúna	2021	MIZU, Baraúna - RN	-5,073479	-38	461022,7778	t clínquer
+583	Produção cimento	Rio Grande do Norte	3	Currais Novos	2022	ELO, Currais Novos - RN	-6,277593	-37	229351,4815	t clínquer
+584	Produção cimento	Rio Grande do Norte	3	Mossoró	2022	NASSAU (Grupo João Santos), Mossoró - RN	-5,201992	-37	229351,4815	t clínquer
+585	Produção cimento	Rio Grande do Norte	3	Baraúna	2022	MIZU, Baraúna - RN	-5,073479	-38	229351,4815	t clínquer
+586	Produção cimento	Rio Grande do Sul	4	Candiota	2014	INTERCEMENT, Candiota - RS	-31,584917	-54	521210,4167	t clínquer
+587	Produção cimento	Rio Grande do Sul	4	Nova Santa Rita	2014	INTERCEMENT, Nova Santa Rita - RS	-29,924917	-51	521210,4167	t clínquer
+588	Produção cimento	Rio Grande do Sul	4	Esteio	2014	VOTORANTIM CIMENTOS, Esteio - RS	-29,842838	-51	521210,4167	t clínquer
+589	Produção cimento	Rio Grande do Sul	4	Pinheiro Machado	2014	VOTORANTIM CIMENTOS, Pinheiro Machado - RS	-31,513336	-54	521210,4167	t clínquer
+590	Produção cimento	Rio Grande do Sul	4	Candiota	2015	INTERCEMENT, Candiota - RS	-31,584917	-54	462237,5833	t clínquer
+591	Produção cimento	Rio Grande do Sul	4	Nova Santa Rita	2015	INTERCEMENT, Nova Santa Rita - RS	-29,924917	-51	462237,5833	t clínquer
+592	Produção cimento	Rio Grande do Sul	4	Esteio	2015	VOTORANTIM CIMENTOS, Esteio - RS	-29,842838	-51	462237,5833	t clínquer
+593	Produção cimento	Rio Grande do Sul	4	Pinheiro Machado	2015	VOTORANTIM CIMENTOS, Pinheiro Machado - RS	-31,513336	-54	462237,5833	t clínquer
+594	Produção cimento	Rio Grande do Sul	4	Candiota	2016	INTERCEMENT, Candiota - RS	-31,584917	-54	381787,1667	t clínquer
+595	Produção cimento	Rio Grande do Sul	4	Nova Santa Rita	2016	INTERCEMENT, Nova Santa Rita - RS	-29,924917	-51	381787,1667	t clínquer
+596	Produção cimento	Rio Grande do Sul	4	Esteio	2016	VOTORANTIM CIMENTOS, Esteio - RS	-29,842838	-51	381787,1667	t clínquer
+597	Produção cimento	Rio Grande do Sul	4	Pinheiro Machado	2016	VOTORANTIM CIMENTOS, Pinheiro Machado - RS	-31,513336	-54	381787,1667	t clínquer
+598	Produção cimento	Rio Grande do Sul	4	Candiota	2017	INTERCEMENT, Candiota - RS	-31,584917	-54	355031,25	t clínquer
+599	Produção cimento	Rio Grande do Sul	4	Nova Santa Rita	2017	INTERCEMENT, Nova Santa Rita - RS	-29,924917	-51	355031,25	t clínquer
+600	Produção cimento	Rio Grande do Sul	4	Esteio	2017	VOTORANTIM CIMENTOS, Esteio - RS	-29,842838	-51	355031,25	t clínquer
+601	Produção cimento	Rio Grande do Sul	4	Pinheiro Machado	2017	VOTORANTIM CIMENTOS, Pinheiro Machado - RS	-31,513336	-54	355031,25	t clínquer
+602	Produção cimento	Rio Grande do Sul	4	Candiota	2018	INTERCEMENT, Candiota - RS	-31,584917	-54	341644,9167	t clínquer
+603	Produção cimento	Rio Grande do Sul	4	Nova Santa Rita	2018	INTERCEMENT, Nova Santa Rita - RS	-29,924917	-51	341644,9167	t clínquer
+604	Produção cimento	Rio Grande do Sul	4	Esteio	2018	VOTORANTIM CIMENTOS, Esteio - RS	-29,842838	-51	341644,9167	t clínquer
+605	Produção cimento	Rio Grande do Sul	4	Pinheiro Machado	2018	VOTORANTIM CIMENTOS, Pinheiro Machado - RS	-31,513336	-54	341644,9167	t clínquer
+606	Produção cimento	Rio Grande do Sul	4	Candiota	2019	INTERCEMENT, Candiota - RS	-31,584917	-54	344541,5	t clínquer
+607	Produção cimento	Rio Grande do Sul	4	Nova Santa Rita	2019	INTERCEMENT, Nova Santa Rita - RS	-29,924917	-51	344541,5	t clínquer
+608	Produção cimento	Rio Grande do Sul	4	Esteio	2019	VOTORANTIM CIMENTOS, Esteio - RS	-29,842838	-51	344541,5	t clínquer
+609	Produção cimento	Rio Grande do Sul	4	Pinheiro Machado	2019	VOTORANTIM CIMENTOS, Pinheiro Machado - RS	-31,513336	-54	344541,5	t clínquer
+610	Produção cimento	Rio Grande do Sul	4	Candiota	2020	INTERCEMENT, Candiota - RS	-31,584917	-54	378458,6667	t clínquer
+611	Produção cimento	Rio Grande do Sul	4	Nova Santa Rita	2020	INTERCEMENT, Nova Santa Rita - RS	-29,924917	-51	378458,6667	t clínquer
+612	Produção cimento	Rio Grande do Sul	4	Esteio	2020	VOTORANTIM CIMENTOS, Esteio - RS	-29,842838	-51	378458,6667	t clínquer
+613	Produção cimento	Rio Grande do Sul	4	Pinheiro Machado	2020	VOTORANTIM CIMENTOS, Pinheiro Machado - RS	-31,513336	-54	378458,6667	t clínquer
+614	Produção cimento	Rio Grande do Sul	4	Candiota	2021	INTERCEMENT, Candiota - RS	-31,584917	-54	422048	t clínquer
+615	Produção cimento	Rio Grande do Sul	4	Nova Santa Rita	2021	INTERCEMENT, Nova Santa Rita - RS	-29,924917	-51	422048	t clínquer
+616	Produção cimento	Rio Grande do Sul	4	Esteio	2021	VOTORANTIM CIMENTOS, Esteio - RS	-29,842838	-51	422048	t clínquer
+617	Produção cimento	Rio Grande do Sul	4	Pinheiro Machado	2021	VOTORANTIM CIMENTOS, Pinheiro Machado - RS	-31,513336	-54	422048	t clínquer
+618	Produção cimento	Rio Grande do Sul	4	Candiota	2022	INTERCEMENT, Candiota - RS	-31,584917	-54	229576,5	t clínquer
+619	Produção cimento	Rio Grande do Sul	4	Nova Santa Rita	2022	INTERCEMENT, Nova Santa Rita - RS	-29,924917	-51	229576,5	t clínquer
+620	Produção cimento	Rio Grande do Sul	4	Esteio	2022	VOTORANTIM CIMENTOS, Esteio - RS	-29,842838	-51	229576,5	t clínquer
+621	Produção cimento	Rio Grande do Sul	4	Pinheiro Machado	2022	VOTORANTIM CIMENTOS, Pinheiro Machado - RS	-31,513336	-54	229576,5	t clínquer
+622	Produção cimento	Rio de Janeiro	8	Cantagalo	2014	CRH, Cantagalo - RJ	-21,980226	-42	558376,375	t clínquer
+623	Produção cimento	Rio de Janeiro	8	Volta Redonda	2014	CSN, Volta Redonda - RJ	-22,509047	-44	558376,375	t clínquer
+624	Produção cimento	Rio de Janeiro	8	Cantagalo	2014	LAFARGEHOLCIM, Cantagalo - RJ	-21,941136	-42	558376,375	t clínquer
+625	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2014	LAFARGEHOLCIM, Rio de Janeiro - RJ	-22,889338	-44	558376,375	t clínquer
+626	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2014	MIZU, Rio de Janeiro - RJ	-22,860007	-44	558376,375	t clínquer
+627	Produção cimento	Rio de Janeiro	8	Volta Redonda	2014	TUPI, Volta Redonda - RJ	-22,521602	-44	558376,375	t clínquer
+628	Produção cimento	Rio de Janeiro	8	Cantagalo	2014	VOTORANTIM CIMENTOS, Cantagalo - RJ	-21,912439	-42	558376,375	t clínquer
+629	Produção cimento	Rio de Janeiro	8	Santa Cruz	2014	VOTORANTIM CIMENTOS, Santa Cruz - RJ	-22,904392	-44	558376,375	t clínquer
+630	Produção cimento	Rio de Janeiro	8	Cantagalo	2015	CRH, Cantagalo - RJ	-21,980226	-42	539383,5	t clínquer
+631	Produção cimento	Rio de Janeiro	8	Volta Redonda	2015	CSN, Volta Redonda - RJ	-22,509047	-44	539383,5	t clínquer
+632	Produção cimento	Rio de Janeiro	8	Cantagalo	2015	LAFARGEHOLCIM, Cantagalo - RJ	-21,941136	-42	539383,5	t clínquer
+633	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2015	LAFARGEHOLCIM, Rio de Janeiro - RJ	-22,889338	-44	539383,5	t clínquer
+634	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2015	MIZU, Rio de Janeiro - RJ	-22,860007	-44	539383,5	t clínquer
+635	Produção cimento	Rio de Janeiro	8	Volta Redonda	2015	TUPI, Volta Redonda - RJ	-22,521602	-44	539383,5	t clínquer
+636	Produção cimento	Rio de Janeiro	8	Cantagalo	2015	VOTORANTIM CIMENTOS, Cantagalo - RJ	-21,912439	-42	539383,5	t clínquer
+637	Produção cimento	Rio de Janeiro	8	Santa Cruz	2015	VOTORANTIM CIMENTOS, Santa Cruz - RJ	-22,904392	-44	539383,5	t clínquer
+638	Produção cimento	Rio de Janeiro	8	Cantagalo	2016	CRH, Cantagalo - RJ	-21,980226	-42	467656,5	t clínquer
+639	Produção cimento	Rio de Janeiro	8	Volta Redonda	2016	CSN, Volta Redonda - RJ	-22,509047	-44	467656,5	t clínquer
+640	Produção cimento	Rio de Janeiro	8	Cantagalo	2016	LAFARGEHOLCIM, Cantagalo - RJ	-21,941136	-42	467656,5	t clínquer
+641	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2016	LAFARGEHOLCIM, Rio de Janeiro - RJ	-22,889338	-44	467656,5	t clínquer
+642	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2016	MIZU, Rio de Janeiro - RJ	-22,860007	-44	467656,5	t clínquer
+643	Produção cimento	Rio de Janeiro	8	Volta Redonda	2016	TUPI, Volta Redonda - RJ	-22,521602	-44	467656,5	t clínquer
+644	Produção cimento	Rio de Janeiro	8	Cantagalo	2016	VOTORANTIM CIMENTOS, Cantagalo - RJ	-21,912439	-42	467656,5	t clínquer
+645	Produção cimento	Rio de Janeiro	8	Santa Cruz	2016	VOTORANTIM CIMENTOS, Santa Cruz - RJ	-22,904392	-44	467656,5	t clínquer
+646	Produção cimento	Rio de Janeiro	8	Cantagalo	2017	CRH, Cantagalo - RJ	-21,980226	-42	402976,375	t clínquer
+647	Produção cimento	Rio de Janeiro	8	Volta Redonda	2017	CSN, Volta Redonda - RJ	-22,509047	-44	402976,375	t clínquer
+648	Produção cimento	Rio de Janeiro	8	Cantagalo	2017	LAFARGEHOLCIM, Cantagalo - RJ	-21,941136	-42	402976,375	t clínquer
+649	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2017	LAFARGEHOLCIM, Rio de Janeiro - RJ	-22,889338	-44	402976,375	t clínquer
+650	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2017	MIZU, Rio de Janeiro - RJ	-22,860007	-44	402976,375	t clínquer
+651	Produção cimento	Rio de Janeiro	8	Volta Redonda	2017	TUPI, Volta Redonda - RJ	-22,521602	-44	402976,375	t clínquer
+652	Produção cimento	Rio de Janeiro	8	Cantagalo	2017	VOTORANTIM CIMENTOS, Cantagalo - RJ	-21,912439	-42	402976,375	t clínquer
+653	Produção cimento	Rio de Janeiro	8	Santa Cruz	2017	VOTORANTIM CIMENTOS, Santa Cruz - RJ	-22,904392	-44	402976,375	t clínquer
+654	Produção cimento	Rio de Janeiro	8	Cantagalo	2018	CRH, Cantagalo - RJ	-21,980226	-42	436722	t clínquer
+655	Produção cimento	Rio de Janeiro	8	Volta Redonda	2018	CSN, Volta Redonda - RJ	-22,509047	-44	436722	t clínquer
+656	Produção cimento	Rio de Janeiro	8	Cantagalo	2018	LAFARGEHOLCIM, Cantagalo - RJ	-21,941136	-42	436722	t clínquer
+657	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2018	LAFARGEHOLCIM, Rio de Janeiro - RJ	-22,889338	-44	436722	t clínquer
+658	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2018	MIZU, Rio de Janeiro - RJ	-22,860007	-44	436722	t clínquer
+659	Produção cimento	Rio de Janeiro	8	Volta Redonda	2018	TUPI, Volta Redonda - RJ	-22,521602	-44	436722	t clínquer
+660	Produção cimento	Rio de Janeiro	8	Cantagalo	2018	VOTORANTIM CIMENTOS, Cantagalo - RJ	-21,912439	-42	436722	t clínquer
+661	Produção cimento	Rio de Janeiro	8	Santa Cruz	2018	VOTORANTIM CIMENTOS, Santa Cruz - RJ	-22,904392	-44	436722	t clínquer
+662	Produção cimento	Rio de Janeiro	8	Cantagalo	2019	CRH, Cantagalo - RJ	-21,980226	-42	487239,75	t clínquer
+663	Produção cimento	Rio de Janeiro	8	Volta Redonda	2019	CSN, Volta Redonda - RJ	-22,509047	-44	487239,75	t clínquer
+664	Produção cimento	Rio de Janeiro	8	Cantagalo	2019	LAFARGEHOLCIM, Cantagalo - RJ	-21,941136	-42	487239,75	t clínquer
+665	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2019	LAFARGEHOLCIM, Rio de Janeiro - RJ	-22,889338	-44	487239,75	t clínquer
+666	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2019	MIZU, Rio de Janeiro - RJ	-22,860007	-44	487239,75	t clínquer
+667	Produção cimento	Rio de Janeiro	8	Volta Redonda	2019	TUPI, Volta Redonda - RJ	-22,521602	-44	487239,75	t clínquer
+668	Produção cimento	Rio de Janeiro	8	Cantagalo	2019	VOTORANTIM CIMENTOS, Cantagalo - RJ	-21,912439	-42	487239,75	t clínquer
+669	Produção cimento	Rio de Janeiro	8	Santa Cruz	2019	VOTORANTIM CIMENTOS, Santa Cruz - RJ	-22,904392	-44	487239,75	t clínquer
+670	Produção cimento	Rio de Janeiro	8	Cantagalo	2020	CRH, Cantagalo - RJ	-21,980226	-42	464728,75	t clínquer
+671	Produção cimento	Rio de Janeiro	8	Volta Redonda	2020	CSN, Volta Redonda - RJ	-22,509047	-44	464728,75	t clínquer
+672	Produção cimento	Rio de Janeiro	8	Cantagalo	2020	LAFARGEHOLCIM, Cantagalo - RJ	-21,941136	-42	464728,75	t clínquer
+673	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2020	LAFARGEHOLCIM, Rio de Janeiro - RJ	-22,889338	-44	464728,75	t clínquer
+674	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2020	MIZU, Rio de Janeiro - RJ	-22,860007	-44	464728,75	t clínquer
+675	Produção cimento	Rio de Janeiro	8	Volta Redonda	2020	TUPI, Volta Redonda - RJ	-22,521602	-44	464728,75	t clínquer
+676	Produção cimento	Rio de Janeiro	8	Cantagalo	2020	VOTORANTIM CIMENTOS, Cantagalo - RJ	-21,912439	-42	464728,75	t clínquer
+677	Produção cimento	Rio de Janeiro	8	Santa Cruz	2020	VOTORANTIM CIMENTOS, Santa Cruz - RJ	-22,904392	-44	464728,75	t clínquer
+678	Produção cimento	Rio de Janeiro	8	Cantagalo	2021	CRH, Cantagalo - RJ	-21,980226	-42	514501,75	t clínquer
+679	Produção cimento	Rio de Janeiro	8	Volta Redonda	2021	CSN, Volta Redonda - RJ	-22,509047	-44	514501,75	t clínquer
+680	Produção cimento	Rio de Janeiro	8	Cantagalo	2021	LAFARGEHOLCIM, Cantagalo - RJ	-21,941136	-42	514501,75	t clínquer
+681	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2021	LAFARGEHOLCIM, Rio de Janeiro - RJ	-22,889338	-44	514501,75	t clínquer
+682	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2021	MIZU, Rio de Janeiro - RJ	-22,860007	-44	514501,75	t clínquer
+683	Produção cimento	Rio de Janeiro	8	Volta Redonda	2021	TUPI, Volta Redonda - RJ	-22,521602	-44	514501,75	t clínquer
+684	Produção cimento	Rio de Janeiro	8	Cantagalo	2021	VOTORANTIM CIMENTOS, Cantagalo - RJ	-21,912439	-42	514501,75	t clínquer
+685	Produção cimento	Rio de Janeiro	8	Santa Cruz	2021	VOTORANTIM CIMENTOS, Santa Cruz - RJ	-22,904392	-44	514501,75	t clínquer
+686	Produção cimento	Rio de Janeiro	8	Cantagalo	2022	CRH, Cantagalo - RJ	-21,980226	-42	282883,375	t clínquer
+687	Produção cimento	Rio de Janeiro	8	Volta Redonda	2022	CSN, Volta Redonda - RJ	-22,509047	-44	282883,375	t clínquer
+688	Produção cimento	Rio de Janeiro	8	Cantagalo	2022	LAFARGEHOLCIM, Cantagalo - RJ	-21,941136	-42	282883,375	t clínquer
+689	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2022	LAFARGEHOLCIM, Rio de Janeiro - RJ	-22,889338	-44	282883,375	t clínquer
+690	Produção cimento	Rio de Janeiro	8	Rio de Janeiro	2022	MIZU, Rio de Janeiro - RJ	-22,860007	-44	282883,375	t clínquer
+691	Produção cimento	Rio de Janeiro	8	Volta Redonda	2022	TUPI, Volta Redonda - RJ	-22,521602	-44	282883,375	t clínquer
+692	Produção cimento	Rio de Janeiro	8	Cantagalo	2022	VOTORANTIM CIMENTOS, Cantagalo - RJ	-21,912439	-42	282883,375	t clínquer
+693	Produção cimento	Rio de Janeiro	8	Santa Cruz	2022	VOTORANTIM CIMENTOS, Santa Cruz - RJ	-22,904392	-44	282883,375	t clínquer
+694	Produção cimento	Rondônia	1	Porto Velho	2014	VOTORANTIM CIMENTOS, Porto Velho - RO	-8,800253	-64	411419	t clínquer
+695	Produção cimento	Rondônia	1	Porto Velho	2015	VOTORANTIM CIMENTOS, Porto Velho - RO	-8,800253	-64	457724	t clínquer
+696	Produção cimento	Rondônia	1	Porto Velho	2016	VOTORANTIM CIMENTOS, Porto Velho - RO	-8,800253	-64	256156	t clínquer
+697	Produção cimento	Rondônia	1	Porto Velho	2017	VOTORANTIM CIMENTOS, Porto Velho - RO	-8,800253	-64	206445	t clínquer
+698	Produção cimento	Rondônia	1	Porto Velho	2018	VOTORANTIM CIMENTOS, Porto Velho - RO	-8,800253	-64	279966,4286	t clínquer
+699	Produção cimento	Rondônia	1	Porto Velho	2019	VOTORANTIM CIMENTOS, Porto Velho - RO	-8,800253	-64	214264,7143	t clínquer
+700	Produção cimento	Rondônia	1	Porto Velho	2020	VOTORANTIM CIMENTOS, Porto Velho - RO	-8,800253	-64	304654	t clínquer
+701	Produção cimento	Rondônia	1	Porto Velho	2021	VOTORANTIM CIMENTOS, Porto Velho - RO	-8,800253	-64	278926	t clínquer
+702	Produção cimento	Rondônia	1	Porto Velho	2022	VOTORANTIM CIMENTOS, Porto Velho - RO	-8,800253	-64	143673,5714	t clínquer
+703	Produção cimento	Santa Catarina	5	Capivari de Baixo	2014	POZOSUL, Capivari de Baixo - SC	-28,42847	-49	455367,1333	t clínquer
+704	Produção cimento	Santa Catarina	5	Pomerode	2014	SUPREMOSECIL, Pomerode - SC	-26,818808	-49	455367,1333	t clínquer
+705	Produção cimento	Santa Catarina	5	Imbituba	2014	VOTORANTIM CIMENTOS, Imbituba - SC	-28,211588	-49	455367,1333	t clínquer
+706	Produção cimento	Santa Catarina	5	Itajaí	2014	VOTORANTIM CIMENTOS, Itajaí - SC	-26,879973	-49	455367,1333	t clínquer
+707	Produção cimento	Santa Catarina	5	Vidal Ramos	2014	VOTORANTIM CIMENTOS, Vidal Ramos - SC	-27,3566	-49	455367,1333	t clínquer
+708	Produção cimento	Santa Catarina	5	Capivari de Baixo	2015	POZOSUL, Capivari de Baixo - SC	-28,42847	-49	377632,0667	t clínquer
+709	Produção cimento	Santa Catarina	5	Pomerode	2015	SUPREMOSECIL, Pomerode - SC	-26,818808	-49	377632,0667	t clínquer
+710	Produção cimento	Santa Catarina	5	Imbituba	2015	VOTORANTIM CIMENTOS, Imbituba - SC	-28,211588	-49	377632,0667	t clínquer
+711	Produção cimento	Santa Catarina	5	Itajaí	2015	VOTORANTIM CIMENTOS, Itajaí - SC	-26,879973	-49	377632,0667	t clínquer
+712	Produção cimento	Santa Catarina	5	Vidal Ramos	2015	VOTORANTIM CIMENTOS, Vidal Ramos - SC	-27,3566	-49	377632,0667	t clínquer
+713	Produção cimento	Santa Catarina	5	Capivari de Baixo	2016	POZOSUL, Capivari de Baixo - SC	-28,42847	-49	294712,5333	t clínquer
+714	Produção cimento	Santa Catarina	5	Pomerode	2016	SUPREMOSECIL, Pomerode - SC	-26,818808	-49	294712,5333	t clínquer
+715	Produção cimento	Santa Catarina	5	Imbituba	2016	VOTORANTIM CIMENTOS, Imbituba - SC	-28,211588	-49	294712,5333	t clínquer
+716	Produção cimento	Santa Catarina	5	Itajaí	2016	VOTORANTIM CIMENTOS, Itajaí - SC	-26,879973	-49	294712,5333	t clínquer
+717	Produção cimento	Santa Catarina	5	Vidal Ramos	2016	VOTORANTIM CIMENTOS, Vidal Ramos - SC	-27,3566	-49	294712,5333	t clínquer
+718	Produção cimento	Santa Catarina	5	Capivari de Baixo	2017	POZOSUL, Capivari de Baixo - SC	-28,42847	-49	287560,6	t clínquer
+719	Produção cimento	Santa Catarina	5	Pomerode	2017	SUPREMOSECIL, Pomerode - SC	-26,818808	-49	287560,6	t clínquer
+720	Produção cimento	Santa Catarina	5	Imbituba	2017	VOTORANTIM CIMENTOS, Imbituba - SC	-28,211588	-49	287560,6	t clínquer
+721	Produção cimento	Santa Catarina	5	Itajaí	2017	VOTORANTIM CIMENTOS, Itajaí - SC	-26,879973	-49	287560,6	t clínquer
+722	Produção cimento	Santa Catarina	5	Vidal Ramos	2017	VOTORANTIM CIMENTOS, Vidal Ramos - SC	-27,3566	-49	287560,6	t clínquer
+723	Produção cimento	Santa Catarina	5	Capivari de Baixo	2018	POZOSUL, Capivari de Baixo - SC	-28,42847	-49	287024,1333	t clínquer
+724	Produção cimento	Santa Catarina	5	Pomerode	2018	SUPREMOSECIL, Pomerode - SC	-26,818808	-49	287024,1333	t clínquer
+725	Produção cimento	Santa Catarina	5	Imbituba	2018	VOTORANTIM CIMENTOS, Imbituba - SC	-28,211588	-49	287024,1333	t clínquer
+726	Produção cimento	Santa Catarina	5	Itajaí	2018	VOTORANTIM CIMENTOS, Itajaí - SC	-26,879973	-49	287024,1333	t clínquer
+727	Produção cimento	Santa Catarina	5	Vidal Ramos	2018	VOTORANTIM CIMENTOS, Vidal Ramos - SC	-27,3566	-49	287024,1333	t clínquer
+728	Produção cimento	Santa Catarina	5	Capivari de Baixo	2019	POZOSUL, Capivari de Baixo - SC	-28,42847	-49	304852	t clínquer
+729	Produção cimento	Santa Catarina	5	Pomerode	2019	SUPREMOSECIL, Pomerode - SC	-26,818808	-49	304852	t clínquer
+730	Produção cimento	Santa Catarina	5	Imbituba	2019	VOTORANTIM CIMENTOS, Imbituba - SC	-28,211588	-49	304852	t clínquer
+731	Produção cimento	Santa Catarina	5	Itajaí	2019	VOTORANTIM CIMENTOS, Itajaí - SC	-26,879973	-49	304852	t clínquer
+732	Produção cimento	Santa Catarina	5	Vidal Ramos	2019	VOTORANTIM CIMENTOS, Vidal Ramos - SC	-27,3566	-49	304852	t clínquer
+733	Produção cimento	Santa Catarina	5	Capivari de Baixo	2020	POZOSUL, Capivari de Baixo - SC	-28,42847	-49	343305,5333	t clínquer
+734	Produção cimento	Santa Catarina	5	Pomerode	2020	SUPREMOSECIL, Pomerode - SC	-26,818808	-49	343305,5333	t clínquer
+735	Produção cimento	Santa Catarina	5	Imbituba	2020	VOTORANTIM CIMENTOS, Imbituba - SC	-28,211588	-49	343305,5333	t clínquer
+736	Produção cimento	Santa Catarina	5	Itajaí	2020	VOTORANTIM CIMENTOS, Itajaí - SC	-26,879973	-49	343305,5333	t clínquer
+737	Produção cimento	Santa Catarina	5	Vidal Ramos	2020	VOTORANTIM CIMENTOS, Vidal Ramos - SC	-27,3566	-49	343305,5333	t clínquer
+738	Produção cimento	Santa Catarina	5	Capivari de Baixo	2021	POZOSUL, Capivari de Baixo - SC	-28,42847	-49	400845,2	t clínquer
+739	Produção cimento	Santa Catarina	5	Pomerode	2021	SUPREMOSECIL, Pomerode - SC	-26,818808	-49	400845,2	t clínquer
+740	Produção cimento	Santa Catarina	5	Imbituba	2021	VOTORANTIM CIMENTOS, Imbituba - SC	-28,211588	-49	400845,2	t clínquer
+741	Produção cimento	Santa Catarina	5	Itajaí	2021	VOTORANTIM CIMENTOS, Itajaí - SC	-26,879973	-49	400845,2	t clínquer
+742	Produção cimento	Santa Catarina	5	Vidal Ramos	2021	VOTORANTIM CIMENTOS, Vidal Ramos - SC	-27,3566	-49	400845,2	t clínquer
+743	Produção cimento	Santa Catarina	5	Capivari de Baixo	2022	POZOSUL, Capivari de Baixo - SC	-28,42847	-49	234447	t clínquer
+744	Produção cimento	Santa Catarina	5	Pomerode	2022	SUPREMOSECIL, Pomerode - SC	-26,818808	-49	234447	t clínquer
+745	Produção cimento	Santa Catarina	5	Imbituba	2022	VOTORANTIM CIMENTOS, Imbituba - SC	-28,211588	-49	234447	t clínquer
+746	Produção cimento	Santa Catarina	5	Itajaí	2022	VOTORANTIM CIMENTOS, Itajaí - SC	-26,879973	-49	234447	t clínquer
+747	Produção cimento	Santa Catarina	5	Vidal Ramos	2022	VOTORANTIM CIMENTOS, Vidal Ramos - SC	-27,3566	-49	234447	t clínquer
+748	Produção cimento	Sergipe	3	Nossa Senhora do Socorro	2014	NASSAU (Grupo João Santos), Nossa Senhora do Socorro - SE	-10,843365	-37	1136968,852	t clínquer
+749	Produção cimento	Sergipe	3	Pacatuba	2014	MIZU, Pacatuba - SE	-10,416466	-37	1136968,852	t clínquer
+750	Produção cimento	Sergipe	3	Laranjeiras	2014	VOTORANTIM CIMENTOS, Laranjeiras - SE	-10,826338	-37	1136968,852	t clínquer
+751	Produção cimento	Sergipe	3	Nossa Senhora do Socorro	2015	NASSAU (Grupo João Santos), Nossa Senhora do Socorro - SE	-10,843365	-37	1031095,741	t clínquer
+752	Produção cimento	Sergipe	3	Pacatuba	2015	MIZU, Pacatuba - SE	-10,416466	-37	1031095,741	t clínquer
+753	Produção cimento	Sergipe	3	Laranjeiras	2015	VOTORANTIM CIMENTOS, Laranjeiras - SE	-10,826338	-37	1031095,741	t clínquer
+754	Produção cimento	Sergipe	3	Nossa Senhora do Socorro	2016	NASSAU (Grupo João Santos), Nossa Senhora do Socorro - SE	-10,843365	-37	736527,1481	t clínquer
+755	Produção cimento	Sergipe	3	Pacatuba	2016	MIZU, Pacatuba - SE	-10,416466	-37	736527,1481	t clínquer
+756	Produção cimento	Sergipe	3	Laranjeiras	2016	VOTORANTIM CIMENTOS, Laranjeiras - SE	-10,826338	-37	736527,1481	t clínquer
+757	Produção cimento	Sergipe	3	Nossa Senhora do Socorro	2017	NASSAU (Grupo João Santos), Nossa Senhora do Socorro - SE	-10,843365	-37	694657,963	t clínquer
+758	Produção cimento	Sergipe	3	Pacatuba	2017	MIZU, Pacatuba - SE	-10,416466	-37	694657,963	t clínquer
+759	Produção cimento	Sergipe	3	Laranjeiras	2017	VOTORANTIM CIMENTOS, Laranjeiras - SE	-10,826338	-37	694657,963	t clínquer
+760	Produção cimento	Sergipe	3	Nossa Senhora do Socorro	2018	NASSAU (Grupo João Santos), Nossa Senhora do Socorro - SE	-10,843365	-37	687900,1111	t clínquer
+761	Produção cimento	Sergipe	3	Pacatuba	2018	MIZU, Pacatuba - SE	-10,416466	-37	687900,1111	t clínquer
+762	Produção cimento	Sergipe	3	Laranjeiras	2018	VOTORANTIM CIMENTOS, Laranjeiras - SE	-10,826338	-37	687900,1111	t clínquer
+763	Produção cimento	Sergipe	3	Nossa Senhora do Socorro	2019	NASSAU (Grupo João Santos), Nossa Senhora do Socorro - SE	-10,843365	-37	697490	t clínquer
+764	Produção cimento	Sergipe	3	Pacatuba	2019	MIZU, Pacatuba - SE	-10,416466	-37	697490	t clínquer
+765	Produção cimento	Sergipe	3	Laranjeiras	2019	VOTORANTIM CIMENTOS, Laranjeiras - SE	-10,826338	-37	697490	t clínquer
+766	Produção cimento	Sergipe	3	Nossa Senhora do Socorro	2020	NASSAU (Grupo João Santos), Nossa Senhora do Socorro - SE	-10,843365	-37	803128,1111	t clínquer
+767	Produção cimento	Sergipe	3	Pacatuba	2020	MIZU, Pacatuba - SE	-10,416466	-37	803128,1111	t clínquer
+768	Produção cimento	Sergipe	3	Laranjeiras	2020	VOTORANTIM CIMENTOS, Laranjeiras - SE	-10,826338	-37	803128,1111	t clínquer
+769	Produção cimento	Sergipe	3	Nossa Senhora do Socorro	2021	NASSAU (Grupo João Santos), Nossa Senhora do Socorro - SE	-10,843365	-37	761733,4444	t clínquer
+770	Produção cimento	Sergipe	3	Pacatuba	2021	MIZU, Pacatuba - SE	-10,416466	-37	761733,4444	t clínquer
+771	Produção cimento	Sergipe	3	Laranjeiras	2021	VOTORANTIM CIMENTOS, Laranjeiras - SE	-10,826338	-37	761733,4444	t clínquer
+772	Produção cimento	Sergipe	3	Nossa Senhora do Socorro	2022	NASSAU (Grupo João Santos), Nossa Senhora do Socorro - SE	-10,843365	-37	416491,8148	t clínquer
+773	Produção cimento	Sergipe	3	Pacatuba	2022	MIZU, Pacatuba - SE	-10,416466	-37	416491,8148	t clínquer
+774	Produção cimento	Sergipe	3	Laranjeiras	2022	VOTORANTIM CIMENTOS, Laranjeiras - SE	-10,826338	-37	416491,8148	t clínquer
+775	Produção cimento	São Paulo	12	Apiaí	2014	INTERCEMENT, Apiaí - SP	-24,518454	-49	814539,4167	t clínquer
+776	Produção cimento	São Paulo	12	Cajati	2014	INTERCEMENT, Cajati - SP	-24,709318	-48	814539,4167	t clínquer
+777	Produção cimento	São Paulo	12	Cubatão	2014	INTERCEMENT, Cubatão - SP	-23,827832	-46	814539,4167	t clínquer
+778	Produção cimento	São Paulo	12	Jacareí	2014	INTERCEMENT, Jacareí - SP	-23,272865	-46	814539,4167	t clínquer
+779	Produção cimento	São Paulo	12	Itapeva	2014	LAFARGEHOLCIM, Itapeva - SP	-23,985412	-49	814539,4167	t clínquer
+780	Produção cimento	São Paulo	12	Sorocaba	2014	LAFARGEHOLCIM, Sorocaba - SP	-23,518181	-47	814539,4167	t clínquer
+781	Produção cimento	São Paulo	12	Mogi das Cruzes	2014	MIZU, Mogi das Cruzes - SP	-23,449839	-46	814539,4167	t clínquer
+782	Produção cimento	São Paulo	12	Mogi das Cruzes	2014	TUPI, Mogi das Cruzes - SP	-23,431076	-46	814539,4167	t clínquer
+783	Produção cimento	São Paulo	12	Cubatão	2014	VOTORANTIM CIMENTOS, Cubatão - SP	-23,857266	-46	814539,4167	t clínquer
+784	Produção cimento	São Paulo	12	Ribeirão Grande	2014	VOTORANTIM CIMENTOS, Ribeirão Grande - SP	-24,160399	-48	814539,4167	t clínquer
+785	Produção cimento	São Paulo	12	Salto de Pirapora	2014	VOTORANTIM CIMENTOS, Salto de Pirapora - SP	-23,628209	-47	814539,4167	t clínquer
+786	Produção cimento	São Paulo	12	Votorantim	2014	VOTORANTIM CIMENTOS, Votorantim - SP	-23,591484	-47	814539,4167	t clínquer
+787	Produção cimento	São Paulo	12	Apiaí	2015	INTERCEMENT, Apiaí - SP	-24,518454	-49	722641	t clínquer
+788	Produção cimento	São Paulo	12	Cajati	2015	INTERCEMENT, Cajati - SP	-24,709318	-48	722641	t clínquer
+789	Produção cimento	São Paulo	12	Cubatão	2015	INTERCEMENT, Cubatão - SP	-23,827832	-46	722641	t clínquer
+790	Produção cimento	São Paulo	12	Jacareí	2015	INTERCEMENT, Jacareí - SP	-23,272865	-46	722641	t clínquer
+791	Produção cimento	São Paulo	12	Itapeva	2015	LAFARGEHOLCIM, Itapeva - SP	-23,985412	-49	722641	t clínquer
+792	Produção cimento	São Paulo	12	Sorocaba	2015	LAFARGEHOLCIM, Sorocaba - SP	-23,518181	-47	722641	t clínquer
+793	Produção cimento	São Paulo	12	Mogi das Cruzes	2015	MIZU, Mogi das Cruzes - SP	-23,449839	-46	722641	t clínquer
+794	Produção cimento	São Paulo	12	Mogi das Cruzes	2015	TUPI, Mogi das Cruzes - SP	-23,431076	-46	722641	t clínquer
+795	Produção cimento	São Paulo	12	Cubatão	2015	VOTORANTIM CIMENTOS, Cubatão - SP	-23,857266	-46	722641	t clínquer
+796	Produção cimento	São Paulo	12	Ribeirão Grande	2015	VOTORANTIM CIMENTOS, Ribeirão Grande - SP	-24,160399	-48	722641	t clínquer
+797	Produção cimento	São Paulo	12	Salto de Pirapora	2015	VOTORANTIM CIMENTOS, Salto de Pirapora - SP	-23,628209	-47	722641	t clínquer
+798	Produção cimento	São Paulo	12	Votorantim	2015	VOTORANTIM CIMENTOS, Votorantim - SP	-23,591484	-47	722641	t clínquer
+799	Produção cimento	São Paulo	12	Apiaí	2016	INTERCEMENT, Apiaí - SP	-24,518454	-49	591180,5	t clínquer
+800	Produção cimento	São Paulo	12	Cajati	2016	INTERCEMENT, Cajati - SP	-24,709318	-48	591180,5	t clínquer
+801	Produção cimento	São Paulo	12	Cubatão	2016	INTERCEMENT, Cubatão - SP	-23,827832	-46	591180,5	t clínquer
+802	Produção cimento	São Paulo	12	Jacareí	2016	INTERCEMENT, Jacareí - SP	-23,272865	-46	591180,5	t clínquer
+803	Produção cimento	São Paulo	12	Itapeva	2016	LAFARGEHOLCIM, Itapeva - SP	-23,985412	-49	591180,5	t clínquer
+804	Produção cimento	São Paulo	12	Sorocaba	2016	LAFARGEHOLCIM, Sorocaba - SP	-23,518181	-47	591180,5	t clínquer
+805	Produção cimento	São Paulo	12	Mogi das Cruzes	2016	MIZU, Mogi das Cruzes - SP	-23,449839	-46	591180,5	t clínquer
+806	Produção cimento	São Paulo	12	Mogi das Cruzes	2016	TUPI, Mogi das Cruzes - SP	-23,431076	-46	591180,5	t clínquer
+807	Produção cimento	São Paulo	12	Cubatão	2016	VOTORANTIM CIMENTOS, Cubatão - SP	-23,857266	-46	591180,5	t clínquer
+808	Produção cimento	São Paulo	12	Ribeirão Grande	2016	VOTORANTIM CIMENTOS, Ribeirão Grande - SP	-24,160399	-48	591180,5	t clínquer
+809	Produção cimento	São Paulo	12	Salto de Pirapora	2016	VOTORANTIM CIMENTOS, Salto de Pirapora - SP	-23,628209	-47	591180,5	t clínquer
+810	Produção cimento	São Paulo	12	Votorantim	2016	VOTORANTIM CIMENTOS, Votorantim - SP	-23,591484	-47	591180,5	t clínquer
+811	Produção cimento	São Paulo	12	Apiaí	2017	INTERCEMENT, Apiaí - SP	-24,518454	-49	541181,6667	t clínquer
+812	Produção cimento	São Paulo	12	Cajati	2017	INTERCEMENT, Cajati - SP	-24,709318	-48	541181,6667	t clínquer
+813	Produção cimento	São Paulo	12	Cubatão	2017	INTERCEMENT, Cubatão - SP	-23,827832	-46	541181,6667	t clínquer
+814	Produção cimento	São Paulo	12	Jacareí	2017	INTERCEMENT, Jacareí - SP	-23,272865	-46	541181,6667	t clínquer
+815	Produção cimento	São Paulo	12	Itapeva	2017	LAFARGEHOLCIM, Itapeva - SP	-23,985412	-49	541181,6667	t clínquer
+816	Produção cimento	São Paulo	12	Sorocaba	2017	LAFARGEHOLCIM, Sorocaba - SP	-23,518181	-47	541181,6667	t clínquer
+817	Produção cimento	São Paulo	12	Mogi das Cruzes	2017	MIZU, Mogi das Cruzes - SP	-23,449839	-46	541181,6667	t clínquer
+818	Produção cimento	São Paulo	12	Mogi das Cruzes	2017	TUPI, Mogi das Cruzes - SP	-23,431076	-46	541181,6667	t clínquer
+819	Produção cimento	São Paulo	12	Cubatão	2017	VOTORANTIM CIMENTOS, Cubatão - SP	-23,857266	-46	541181,6667	t clínquer
+820	Produção cimento	São Paulo	12	Ribeirão Grande	2017	VOTORANTIM CIMENTOS, Ribeirão Grande - SP	-24,160399	-48	541181,6667	t clínquer
+821	Produção cimento	São Paulo	12	Salto de Pirapora	2017	VOTORANTIM CIMENTOS, Salto de Pirapora - SP	-23,628209	-47	541181,6667	t clínquer
+822	Produção cimento	São Paulo	12	Votorantim	2017	VOTORANTIM CIMENTOS, Votorantim - SP	-23,591484	-47	541181,6667	t clínquer
+823	Produção cimento	São Paulo	12	Apiaí	2018	INTERCEMENT, Apiaí - SP	-24,518454	-49	524191,9167	t clínquer
+824	Produção cimento	São Paulo	12	Cajati	2018	INTERCEMENT, Cajati - SP	-24,709318	-48	524191,9167	t clínquer
+825	Produção cimento	São Paulo	12	Cubatão	2018	INTERCEMENT, Cubatão - SP	-23,827832	-46	524191,9167	t clínquer
+826	Produção cimento	São Paulo	12	Jacareí	2018	INTERCEMENT, Jacareí - SP	-23,272865	-46	524191,9167	t clínquer
+827	Produção cimento	São Paulo	12	Itapeva	2018	LAFARGEHOLCIM, Itapeva - SP	-23,985412	-49	524191,9167	t clínquer
+828	Produção cimento	São Paulo	12	Sorocaba	2018	LAFARGEHOLCIM, Sorocaba - SP	-23,518181	-47	524191,9167	t clínquer
+829	Produção cimento	São Paulo	12	Mogi das Cruzes	2018	MIZU, Mogi das Cruzes - SP	-23,449839	-46	524191,9167	t clínquer
+830	Produção cimento	São Paulo	12	Mogi das Cruzes	2018	TUPI, Mogi das Cruzes - SP	-23,431076	-46	524191,9167	t clínquer
+831	Produção cimento	São Paulo	12	Cubatão	2018	VOTORANTIM CIMENTOS, Cubatão - SP	-23,857266	-46	524191,9167	t clínquer
+832	Produção cimento	São Paulo	12	Ribeirão Grande	2018	VOTORANTIM CIMENTOS, Ribeirão Grande - SP	-24,160399	-48	524191,9167	t clínquer
+833	Produção cimento	São Paulo	12	Salto de Pirapora	2018	VOTORANTIM CIMENTOS, Salto de Pirapora - SP	-23,628209	-47	524191,9167	t clínquer
+834	Produção cimento	São Paulo	12	Votorantim	2018	VOTORANTIM CIMENTOS, Votorantim - SP	-23,591484	-47	524191,9167	t clínquer
+835	Produção cimento	São Paulo	12	Apiaí	2019	INTERCEMENT, Apiaí - SP	-24,518454	-49	513107,4167	t clínquer
+836	Produção cimento	São Paulo	12	Cajati	2019	INTERCEMENT, Cajati - SP	-24,709318	-48	513107,4167	t clínquer
+837	Produção cimento	São Paulo	12	Cubatão	2019	INTERCEMENT, Cubatão - SP	-23,827832	-46	513107,4167	t clínquer
+838	Produção cimento	São Paulo	12	Jacareí	2019	INTERCEMENT, Jacareí - SP	-23,272865	-46	513107,4167	t clínquer
+839	Produção cimento	São Paulo	12	Itapeva	2019	LAFARGEHOLCIM, Itapeva - SP	-23,985412	-49	513107,4167	t clínquer
+840	Produção cimento	São Paulo	12	Sorocaba	2019	LAFARGEHOLCIM, Sorocaba - SP	-23,518181	-47	513107,4167	t clínquer
+841	Produção cimento	São Paulo	12	Mogi das Cruzes	2019	MIZU, Mogi das Cruzes - SP	-23,449839	-46	513107,4167	t clínquer
+842	Produção cimento	São Paulo	12	Mogi das Cruzes	2019	TUPI, Mogi das Cruzes - SP	-23,431076	-46	513107,4167	t clínquer
+843	Produção cimento	São Paulo	12	Cubatão	2019	VOTORANTIM CIMENTOS, Cubatão - SP	-23,857266	-46	513107,4167	t clínquer
+844	Produção cimento	São Paulo	12	Ribeirão Grande	2019	VOTORANTIM CIMENTOS, Ribeirão Grande - SP	-24,160399	-48	513107,4167	t clínquer
+845	Produção cimento	São Paulo	12	Salto de Pirapora	2019	VOTORANTIM CIMENTOS, Salto de Pirapora - SP	-23,628209	-47	513107,4167	t clínquer
+846	Produção cimento	São Paulo	12	Votorantim	2019	VOTORANTIM CIMENTOS, Votorantim - SP	-23,591484	-47	513107,4167	t clínquer
+847	Produção cimento	São Paulo	12	Apiaí	2020	INTERCEMENT, Apiaí - SP	-24,518454	-49	585602,3333	t clínquer
+848	Produção cimento	São Paulo	12	Cajati	2020	INTERCEMENT, Cajati - SP	-24,709318	-48	585602,3333	t clínquer
+849	Produção cimento	São Paulo	12	Cubatão	2020	INTERCEMENT, Cubatão - SP	-23,827832	-46	585602,3333	t clínquer
+850	Produção cimento	São Paulo	12	Jacareí	2020	INTERCEMENT, Jacareí - SP	-23,272865	-46	585602,3333	t clínquer
+851	Produção cimento	São Paulo	12	Itapeva	2020	LAFARGEHOLCIM, Itapeva - SP	-23,985412	-49	585602,3333	t clínquer
+852	Produção cimento	São Paulo	12	Sorocaba	2020	LAFARGEHOLCIM, Sorocaba - SP	-23,518181	-47	585602,3333	t clínquer
+853	Produção cimento	São Paulo	12	Mogi das Cruzes	2020	MIZU, Mogi das Cruzes - SP	-23,449839	-46	585602,3333	t clínquer
+854	Produção cimento	São Paulo	12	Mogi das Cruzes	2020	TUPI, Mogi das Cruzes - SP	-23,431076	-46	585602,3333	t clínquer
+855	Produção cimento	São Paulo	12	Cubatão	2020	VOTORANTIM CIMENTOS, Cubatão - SP	-23,857266	-46	585602,3333	t clínquer
+856	Produção cimento	São Paulo	12	Ribeirão Grande	2020	VOTORANTIM CIMENTOS, Ribeirão Grande - SP	-24,160399	-48	585602,3333	t clínquer
+857	Produção cimento	São Paulo	12	Salto de Pirapora	2020	VOTORANTIM CIMENTOS, Salto de Pirapora - SP	-23,628209	-47	585602,3333	t clínquer
+858	Produção cimento	São Paulo	12	Votorantim	2020	VOTORANTIM CIMENTOS, Votorantim - SP	-23,591484	-47	585602,3333	t clínquer
+859	Produção cimento	São Paulo	12	Apiaí	2021	INTERCEMENT, Apiaí - SP	-24,518454	-49	651986,25	t clínquer
+860	Produção cimento	São Paulo	12	Cajati	2021	INTERCEMENT, Cajati - SP	-24,709318	-48	651986,25	t clínquer
+861	Produção cimento	São Paulo	12	Cubatão	2021	INTERCEMENT, Cubatão - SP	-23,827832	-46	651986,25	t clínquer
+862	Produção cimento	São Paulo	12	Jacareí	2021	INTERCEMENT, Jacareí - SP	-23,272865	-46	651986,25	t clínquer
+863	Produção cimento	São Paulo	12	Itapeva	2021	LAFARGEHOLCIM, Itapeva - SP	-23,985412	-49	651986,25	t clínquer
+864	Produção cimento	São Paulo	12	Sorocaba	2021	LAFARGEHOLCIM, Sorocaba - SP	-23,518181	-47	651986,25	t clínquer
+865	Produção cimento	São Paulo	12	Mogi das Cruzes	2021	MIZU, Mogi das Cruzes - SP	-23,449839	-46	651986,25	t clínquer
+866	Produção cimento	São Paulo	12	Mogi das Cruzes	2021	TUPI, Mogi das Cruzes - SP	-23,431076	-46	651986,25	t clínquer
+867	Produção cimento	São Paulo	12	Cubatão	2021	VOTORANTIM CIMENTOS, Cubatão - SP	-23,857266	-46	651986,25	t clínquer
+868	Produção cimento	São Paulo	12	Ribeirão Grande	2021	VOTORANTIM CIMENTOS, Ribeirão Grande - SP	-24,160399	-48	651986,25	t clínquer
+869	Produção cimento	São Paulo	12	Salto de Pirapora	2021	VOTORANTIM CIMENTOS, Salto de Pirapora - SP	-23,628209	-47	651986,25	t clínquer
+870	Produção cimento	São Paulo	12	Votorantim	2021	VOTORANTIM CIMENTOS, Votorantim - SP	-23,591484	-47	651986,25	t clínquer
+871	Produção cimento	São Paulo	12	Apiaí	2022	INTERCEMENT, Apiaí - SP	-24,518454	-49	356796,6667	t clínquer
+872	Produção cimento	São Paulo	12	Cajati	2022	INTERCEMENT, Cajati - SP	-24,709318	-48	356796,6667	t clínquer
+873	Produção cimento	São Paulo	12	Cubatão	2022	INTERCEMENT, Cubatão - SP	-23,827832	-46	356796,6667	t clínquer
+874	Produção cimento	São Paulo	12	Jacareí	2022	INTERCEMENT, Jacareí - SP	-23,272865	-46	356796,6667	t clínquer
+875	Produção cimento	São Paulo	12	Itapeva	2022	LAFARGEHOLCIM, Itapeva - SP	-23,985412	-49	356796,6667	t clínquer
+876	Produção cimento	São Paulo	12	Sorocaba	2022	LAFARGEHOLCIM, Sorocaba - SP	-23,518181	-47	356796,6667	t clínquer
+877	Produção cimento	São Paulo	12	Mogi das Cruzes	2022	MIZU, Mogi das Cruzes - SP	-23,449839	-46	356796,6667	t clínquer
+878	Produção cimento	São Paulo	12	Mogi das Cruzes	2022	TUPI, Mogi das Cruzes - SP	-23,431076	-46	356796,6667	t clínquer
+879	Produção cimento	São Paulo	12	Cubatão	2022	VOTORANTIM CIMENTOS, Cubatão - SP	-23,857266	-46	356796,6667	t clínquer
+880	Produção cimento	São Paulo	12	Ribeirão Grande	2022	VOTORANTIM CIMENTOS, Ribeirão Grande - SP	-24,160399	-48	356796,6667	t clínquer
+881	Produção cimento	São Paulo	12	Salto de Pirapora	2022	VOTORANTIM CIMENTOS, Salto de Pirapora - SP	-23,628209	-47	356796,6667	t clínquer
+882	Produção cimento	São Paulo	12	Votorantim	2022	VOTORANTIM CIMENTOS, Votorantim - SP	-23,591484	-47	356796,6667	t clínquer
+883	Produção cimento	Tocantins	1	Xambioá	2014	VOTORANTIM CIMENTOS, Xambioá - TO	-6,429763	-48	630898	t clínquer
+884	Produção cimento	Tocantins	1	Xambioá	2015	VOTORANTIM CIMENTOS, Xambioá - TO	-6,429763	-48	825767	t clínquer
+885	Produção cimento	Tocantins	1	Xambioá	2016	VOTORANTIM CIMENTOS, Xambioá - TO	-6,429763	-48	704922	t clínquer
+886	Produção cimento	Tocantins	1	Xambioá	2017	VOTORANTIM CIMENTOS, Xambioá - TO	-6,429763	-48	538969	t clínquer
+887	Produção cimento	Tocantins	1	Xambioá	2018	VOTORANTIM CIMENTOS, Xambioá - TO	-6,429763	-48	734667,4286	t clínquer
+888	Produção cimento	Tocantins	1	Xambioá	2019	VOTORANTIM CIMENTOS, Xambioá - TO	-6,429763	-48	607216,7143	t clínquer
+889	Produção cimento	Tocantins	1	Xambioá	2020	VOTORANTIM CIMENTOS, Xambioá - TO	-6,429763	-48	742090	t clínquer
+890	Produção cimento	Tocantins	1	Xambioá	2021	VOTORANTIM CIMENTOS, Xambioá - TO	-6,429763	-48	886319	t clínquer
+891	Produção cimento	Tocantins	1	Xambioá	2022	VOTORANTIM CIMENTOS, Xambioá - TO	-6,429763	-48	440132,5714	t clínquer
