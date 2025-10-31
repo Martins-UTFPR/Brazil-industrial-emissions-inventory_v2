@@ -5,6 +5,9 @@ This inventory of atmospheric emissions was developed for four industrial sector
 The “Brazil-industrial-emissions-inventory” repository has the "emissions_data" folder where emissions from the inventoried sectors for Brazil are made available. The files EPA_CEM.txt, EEA_CEM.txt, EPA_PAP.txt, EEA_PAP.txt, EPA_REF.txt, EEA_REF.txt, EPA_TPP.txt and EEA_TPP.txt contain the name of the emitter, the geographic coordinates and the identification of each emitting source. In addition, it includes the emission for original (typical) lower and upper emission factors for TSP, PM10, PM2.5, BC, NOx, CO, NMVOCs, and SOx, in Gg/year for the base years from 1990 to 2023. The "factors" folder contains the activity factors used to estimate emissions
 
 # Citation and more information:
+Ibagué-Rey et al. (2025). A comprehensive atmospheric emissions inventory for major Brazilian industrial sectors: a bottom-up approach with spatial distribution analysis.
+link: https://doi.org/10.1080/09593330.2025.2560588
+
 Ibagué Rey et al. (2023). Development of an atmospheric emissions inventory for four industrial sectors of Brazil with a bottom-up approach.
 link: https://riut.utfpr.edu.br/jspui/bitstream/1/32339/1/inventarioemissoesindustriaisbrasil.pdf
 
