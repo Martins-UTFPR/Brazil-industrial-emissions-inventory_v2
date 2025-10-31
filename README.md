@@ -7,7 +7,7 @@ The “Brazil-industrial-emissions-inventory” repository has the "emissions_da
 # Updated version - emissions' height
 For the representation of chimney heights in the gas and particulate emission records of the country’s four main industrial sectors (cement, thermoelectric power plants, pulp and paper, and oil refineries), a two-step strategy was adopted to address the limited availability of detailed data in existing inventories.
 In the first stage, automation in R added a column with a representative average chimney height for each sector. For the cement industry, due to the absence of national data, a value of 115 m was used as a proxy for large-scale facilities, based on international references (Table 1). The resulting base files were saved with the suffix _ALT.txt.
-The second stage involved manual refinement, where the average values were replaced with specific height data collected from identified facilities in previous studies (Table 1). This step ensured greater accuracy, and the updated files, combining both representative and specific values, were stored with the suffix _ALT2.txt in the version_2.1 folder.
+The second stage involved manual refinement, where the average values were replaced with specific height data collected from identified facilities in previous studies (Table 1). This step ensured greater accuracy, and the updated files, combining both representative and specific values, were stored with the suffix _ALT2.txt in the [version_2.1](version_2.1/) folder.
 The base files are available in the [pasta](version_2.1/).
 
 Table 1. Representative chimney heights adopted for each industrial sector
